@@ -1,0 +1,3002 @@
+id,usuario_id,tipo_activo,descripcion,monto
+1,52977,ahorro,Activos financieros,2988.57
+2,52977,ahorro,Activos financieros,2988.57
+3,43639,ahorro,Activos financieros,22709.47
+4,49905,inversiones,Activos financieros,222459.66
+5,52628,ahorro,Activos financieros,59254.00
+6,43041,ahorro,Activos financieros,9822.68
+7,49185,inversiones,Activos financieros,181003.60
+8,46897,ahorro,Activos financieros,71743.95
+9,50164,inversiones,Activos financieros,126436.43
+10,44412,inversiones,Activos financieros,84179.02
+11,45801,ahorro,Activos financieros,69964.87
+12,48478,plan de jubilación,Activos financieros,43092.48
+13,45646,ahorro,Activos financieros,9728.21
+14,47542,plan de jubilación,Activos financieros,212636.12
+15,47147,plan de jubilación,Activos financieros,202746.43
+16,43924,plan de jubilación,Activos financieros,136375.88
+17,43845,ahorro,Activos financieros,55428.04
+18,48625,inversiones,Activos financieros,265750.07
+19,51003,inversiones,Activos financieros,58494.29
+20,48409,ahorro,Activos financieros,66295.70
+21,51408,ahorro,Activos financieros,85604.11
+22,45676,plan de jubilación,Activos financieros,73103.53
+23,53598,plan de jubilación,Activos financieros,44850.25
+24,52587,ahorro,Activos financieros,67182.43
+25,44987,inversiones,Activos financieros,194762.58
+26,44366,inversiones,Activos financieros,52170.46
+27,52201,ahorro,Activos financieros,16758.55
+28,50343,plan de jubilación,Activos financieros,247433.22
+29,54201,inversiones,Activos financieros,167527.97
+30,48243,plan de jubilación,Activos financieros,211498.72
+31,48537,ahorro,Activos financieros,82269.36
+32,49923,plan de jubilación,Activos financieros,70596.51
+33,51299,inversiones,Activos financieros,263033.92
+34,46233,ahorro,Activos financieros,65716.15
+35,52021,inversiones,Activos financieros,138196.70
+36,47915,ahorro,Activos financieros,25039.44
+37,51470,inversiones,Activos financieros,79559.74
+38,43707,plan de jubilación,Activos financieros,224966.61
+39,43999,plan de jubilación,Activos financieros,58733.59
+40,44054,inversiones,Activos financieros,148561.23
+41,44903,ahorro,Activos financieros,15707.71
+42,51788,inversiones,Activos financieros,127225.83
+43,53900,plan de jubilación,Activos financieros,98496.73
+44,49836,inversiones,Activos financieros,76172.82
+45,48447,ahorro,Activos financieros,68188.20
+46,42704,inversiones,Activos financieros,265551.75
+47,49520,inversiones,Activos financieros,102712.47
+48,49472,plan de jubilación,Activos financieros,43748.65
+49,51271,inversiones,Activos financieros,262880.03
+50,51466,inversiones,Activos financieros,228826.70
+51,47862,ahorro,Activos financieros,87116.60
+52,44711,inversiones,Activos financieros,152791.20
+53,53781,ahorro,Activos financieros,37704.43
+54,51781,inversiones,Activos financieros,286096.42
+55,45645,ahorro,Activos financieros,60094.99
+56,46776,ahorro,Activos financieros,11630.84
+57,50125,plan de jubilación,Activos financieros,63665.82
+58,51360,inversiones,Activos financieros,284137.88
+59,44855,inversiones,Activos financieros,146311.15
+60,46367,inversiones,Activos financieros,229984.49
+61,44869,inversiones,Activos financieros,143109.43
+62,46788,ahorro,Activos financieros,26873.13
+63,51713,plan de jubilación,Activos financieros,241268.91
+64,47150,inversiones,Activos financieros,207270.42
+65,53870,plan de jubilación,Activos financieros,102753.11
+66,54542,inversiones,Activos financieros,112652.73
+67,44487,plan de jubilación,Activos financieros,34646.03
+68,48216,ahorro,Activos financieros,34139.51
+69,44702,inversiones,Activos financieros,69804.31
+70,52870,ahorro,Activos financieros,7563.81
+71,43086,ahorro,Activos financieros,23279.71
+72,53622,plan de jubilación,Activos financieros,22360.05
+73,52807,plan de jubilación,Activos financieros,168899.56
+74,53157,inversiones,Activos financieros,40561.24
+75,43847,inversiones,Activos financieros,142328.64
+76,43623,plan de jubilación,Activos financieros,51650.43
+77,45500,inversiones,Activos financieros,129884.30
+78,47172,plan de jubilación,Activos financieros,119421.04
+79,53236,ahorro,Activos financieros,67499.77
+80,45545,ahorro,Activos financieros,6530.96
+81,42929,plan de jubilación,Activos financieros,201145.17
+82,47775,ahorro,Activos financieros,19563.21
+83,48175,plan de jubilación,Activos financieros,39344.66
+84,43419,plan de jubilación,Activos financieros,118343.88
+85,46170,plan de jubilación,Activos financieros,202965.45
+86,50653,ahorro,Activos financieros,5533.54
+87,52964,ahorro,Activos financieros,96915.13
+88,51576,ahorro,Activos financieros,40938.20
+89,46955,ahorro,Activos financieros,86532.71
+90,47810,ahorro,Activos financieros,38207.83
+91,50835,plan de jubilación,Activos financieros,231996.93
+92,44282,plan de jubilación,Activos financieros,108636.83
+93,54634,inversiones,Activos financieros,198899.52
+94,46085,ahorro,Activos financieros,19394.84
+95,45779,ahorro,Activos financieros,58128.44
+96,45102,ahorro,Activos financieros,74923.57
+97,47956,ahorro,Activos financieros,58625.67
+98,54412,inversiones,Activos financieros,48072.39
+99,53255,ahorro,Activos financieros,85208.58
+100,53589,inversiones,Activos financieros,21320.30
+101,50345,plan de jubilación,Activos financieros,34372.22
+102,47387,ahorro,Activos financieros,58102.45
+103,51928,inversiones,Activos financieros,25513.04
+104,46010,inversiones,Activos financieros,170002.85
+105,53985,plan de jubilación,Activos financieros,55043.50
+106,48090,plan de jubilación,Activos financieros,63478.06
+107,43129,ahorro,Activos financieros,67333.18
+108,51344,plan de jubilación,Activos financieros,82463.41
+109,47208,ahorro,Activos financieros,46099.41
+110,47654,ahorro,Activos financieros,7789.44
+111,47613,inversiones,Activos financieros,80294.92
+112,43586,ahorro,Activos financieros,87987.39
+113,49121,plan de jubilación,Activos financieros,43647.97
+114,51531,inversiones,Activos financieros,91452.63
+115,47961,inversiones,Activos financieros,3339.11
+116,53910,plan de jubilación,Activos financieros,233280.23
+117,46898,ahorro,Activos financieros,26814.36
+118,53494,inversiones,Activos financieros,166413.87
+119,43944,plan de jubilación,Activos financieros,153183.31
+120,42681,plan de jubilación,Activos financieros,54881.34
+121,47832,plan de jubilación,Activos financieros,128825.22
+122,51138,ahorro,Activos financieros,9683.70
+123,47172,plan de jubilación,Activos financieros,15801.26
+124,47614,ahorro,Activos financieros,63892.78
+125,49762,ahorro,Activos financieros,74252.48
+126,52128,inversiones,Activos financieros,128878.39
+127,49441,ahorro,Activos financieros,7986.76
+128,43056,ahorro,Activos financieros,54786.23
+129,47989,inversiones,Activos financieros,166205.00
+130,45139,ahorro,Activos financieros,4661.97
+131,48444,ahorro,Activos financieros,89943.00
+132,43985,inversiones,Activos financieros,75609.39
+133,42727,plan de jubilación,Activos financieros,196128.48
+134,51880,inversiones,Activos financieros,225093.81
+135,47664,ahorro,Activos financieros,97632.50
+136,49845,plan de jubilación,Activos financieros,11072.66
+137,43536,plan de jubilación,Activos financieros,201547.61
+138,53220,plan de jubilación,Activos financieros,44003.47
+139,48614,ahorro,Activos financieros,38562.90
+140,52843,plan de jubilación,Activos financieros,59496.26
+141,50810,plan de jubilación,Activos financieros,79771.76
+142,54599,ahorro,Activos financieros,2854.61
+143,54248,plan de jubilación,Activos financieros,85424.18
+144,53846,plan de jubilación,Activos financieros,91030.80
+145,49593,plan de jubilación,Activos financieros,171481.94
+146,52597,plan de jubilación,Activos financieros,235113.10
+147,45077,plan de jubilación,Activos financieros,48749.11
+148,50827,ahorro,Activos financieros,11286.05
+149,50257,plan de jubilación,Activos financieros,183493.54
+150,48007,plan de jubilación,Activos financieros,153521.17
+151,49174,ahorro,Activos financieros,38826.95
+152,49997,ahorro,Activos financieros,25844.89
+153,49396,plan de jubilación,Activos financieros,5414.36
+154,52671,inversiones,Activos financieros,216109.57
+155,44223,ahorro,Activos financieros,36740.04
+156,50475,inversiones,Activos financieros,276310.49
+157,47984,plan de jubilación,Activos financieros,167529.93
+158,46555,inversiones,Activos financieros,270114.00
+159,52159,plan de jubilación,Activos financieros,168388.76
+160,46503,plan de jubilación,Activos financieros,175816.06
+161,51708,ahorro,Activos financieros,19588.09
+162,43031,plan de jubilación,Activos financieros,170942.90
+163,52624,inversiones,Activos financieros,171162.47
+164,47202,inversiones,Activos financieros,250283.83
+165,42873,plan de jubilación,Activos financieros,56494.76
+166,45525,inversiones,Activos financieros,196756.98
+167,49619,plan de jubilación,Activos financieros,113329.15
+168,51697,inversiones,Activos financieros,142482.67
+169,52088,inversiones,Activos financieros,26353.87
+170,46755,inversiones,Activos financieros,190249.32
+171,49613,ahorro,Activos financieros,81933.13
+172,51126,inversiones,Activos financieros,93815.42
+173,48042,ahorro,Activos financieros,2930.33
+174,46902,plan de jubilación,Activos financieros,154762.12
+175,51339,plan de jubilación,Activos financieros,106538.05
+176,52343,inversiones,Activos financieros,59136.14
+177,46057,plan de jubilación,Activos financieros,126122.41
+178,54029,ahorro,Activos financieros,65777.77
+179,50903,ahorro,Activos financieros,77952.83
+180,53525,ahorro,Activos financieros,80508.93
+181,49262,inversiones,Activos financieros,139900.42
+182,52720,ahorro,Activos financieros,91788.27
+183,42848,plan de jubilación,Activos financieros,37668.08
+184,49885,inversiones,Activos financieros,159808.43
+185,54496,inversiones,Activos financieros,95872.09
+186,48970,inversiones,Activos financieros,244686.95
+187,43214,plan de jubilación,Activos financieros,208489.45
+188,43050,plan de jubilación,Activos financieros,224815.99
+189,48192,plan de jubilación,Activos financieros,68501.93
+190,53709,inversiones,Activos financieros,83916.09
+191,49082,plan de jubilación,Activos financieros,158553.37
+192,42853,plan de jubilación,Activos financieros,23983.42
+193,50183,ahorro,Activos financieros,27535.65
+194,52076,inversiones,Activos financieros,25092.72
+195,53634,ahorro,Activos financieros,38612.01
+196,46732,inversiones,Activos financieros,64971.91
+197,52317,plan de jubilación,Activos financieros,86065.94
+198,52259,plan de jubilación,Activos financieros,20255.10
+199,47985,plan de jubilación,Activos financieros,226685.43
+200,42726,inversiones,Activos financieros,6840.06
+201,49425,plan de jubilación,Activos financieros,121860.03
+202,53839,plan de jubilación,Activos financieros,189601.41
+203,49741,inversiones,Activos financieros,224507.19
+204,51009,inversiones,Activos financieros,269445.59
+205,51660,ahorro,Activos financieros,27657.06
+206,49395,ahorro,Activos financieros,39191.29
+207,53530,inversiones,Activos financieros,239644.56
+208,52522,ahorro,Activos financieros,84130.31
+209,51815,inversiones,Activos financieros,160702.97
+210,50020,inversiones,Activos financieros,169753.20
+211,47328,ahorro,Activos financieros,64453.59
+212,46982,plan de jubilación,Activos financieros,49523.61
+213,47926,plan de jubilación,Activos financieros,85201.40
+214,48495,plan de jubilación,Activos financieros,87687.63
+215,45594,plan de jubilación,Activos financieros,189242.41
+216,48411,plan de jubilación,Activos financieros,209553.17
+217,50354,ahorro,Activos financieros,75027.91
+218,47735,plan de jubilación,Activos financieros,59934.43
+219,45437,inversiones,Activos financieros,13037.18
+220,50684,ahorro,Activos financieros,20336.39
+221,44050,inversiones,Activos financieros,46562.32
+222,49948,plan de jubilación,Activos financieros,169017.42
+223,52227,ahorro,Activos financieros,46770.88
+224,54220,plan de jubilación,Activos financieros,46108.34
+225,52345,inversiones,Activos financieros,215788.81
+226,52787,plan de jubilación,Activos financieros,31484.19
+227,50139,plan de jubilación,Activos financieros,146070.20
+228,43371,plan de jubilación,Activos financieros,235660.30
+229,50163,ahorro,Activos financieros,59413.74
+230,49626,ahorro,Activos financieros,10639.18
+231,53373,inversiones,Activos financieros,180523.07
+232,51480,inversiones,Activos financieros,235007.97
+233,53701,inversiones,Activos financieros,129085.03
+234,54364,ahorro,Activos financieros,50843.10
+235,45538,ahorro,Activos financieros,85032.77
+236,49275,ahorro,Activos financieros,43635.58
+237,44246,inversiones,Activos financieros,267580.93
+238,45825,inversiones,Activos financieros,46744.35
+239,54089,inversiones,Activos financieros,157002.28
+240,48177,plan de jubilación,Activos financieros,155898.53
+241,43635,plan de jubilación,Activos financieros,118894.07
+242,44839,inversiones,Activos financieros,81250.27
+243,44281,ahorro,Activos financieros,28253.36
+244,53035,ahorro,Activos financieros,75172.39
+245,47978,inversiones,Activos financieros,200788.35
+246,43108,ahorro,Activos financieros,49683.50
+247,44782,ahorro,Activos financieros,49011.22
+248,54037,plan de jubilación,Activos financieros,88383.02
+249,54395,inversiones,Activos financieros,264152.10
+250,42912,ahorro,Activos financieros,51904.41
+251,52246,ahorro,Activos financieros,24514.93
+252,51880,plan de jubilación,Activos financieros,141018.17
+253,47176,inversiones,Activos financieros,143351.84
+254,44388,plan de jubilación,Activos financieros,114802.76
+255,43074,ahorro,Activos financieros,29776.44
+256,49631,inversiones,Activos financieros,73748.24
+257,50286,inversiones,Activos financieros,111337.11
+258,53276,inversiones,Activos financieros,103783.46
+259,46104,plan de jubilación,Activos financieros,91193.58
+260,47537,plan de jubilación,Activos financieros,80122.63
+261,48435,ahorro,Activos financieros,72267.79
+262,49550,ahorro,Activos financieros,74416.67
+263,49211,ahorro,Activos financieros,19558.33
+264,42974,plan de jubilación,Activos financieros,182523.33
+265,51584,inversiones,Activos financieros,85616.61
+266,53291,ahorro,Activos financieros,29976.52
+267,46820,ahorro,Activos financieros,30575.63
+268,44697,inversiones,Activos financieros,38848.30
+269,42791,ahorro,Activos financieros,55559.22
+270,49013,ahorro,Activos financieros,63968.03
+271,47321,ahorro,Activos financieros,87335.61
+272,53805,plan de jubilación,Activos financieros,120002.25
+273,44019,plan de jubilación,Activos financieros,50169.10
+274,53021,plan de jubilación,Activos financieros,235560.58
+275,48086,ahorro,Activos financieros,82300.51
+276,51795,plan de jubilación,Activos financieros,23150.13
+277,49285,inversiones,Activos financieros,17029.11
+278,49999,inversiones,Activos financieros,284788.57
+279,48530,ahorro,Activos financieros,12285.93
+280,49304,inversiones,Activos financieros,179241.93
+281,45667,ahorro,Activos financieros,77681.51
+282,46195,plan de jubilación,Activos financieros,227583.57
+283,48623,inversiones,Activos financieros,297019.35
+284,51149,inversiones,Activos financieros,186687.17
+285,49981,inversiones,Activos financieros,30670.84
+286,48510,inversiones,Activos financieros,64096.53
+287,49977,ahorro,Activos financieros,16127.18
+288,42948,inversiones,Activos financieros,23444.40
+289,50947,plan de jubilación,Activos financieros,115373.41
+290,46078,plan de jubilación,Activos financieros,76358.53
+291,44640,plan de jubilación,Activos financieros,178204.18
+292,50908,plan de jubilación,Activos financieros,22439.04
+293,47273,plan de jubilación,Activos financieros,198017.87
+294,43734,inversiones,Activos financieros,198693.73
+295,51953,plan de jubilación,Activos financieros,33120.19
+296,53624,inversiones,Activos financieros,45547.83
+297,44989,ahorro,Activos financieros,7605.28
+298,47219,plan de jubilación,Activos financieros,150785.79
+299,46033,plan de jubilación,Activos financieros,112592.59
+300,46870,inversiones,Activos financieros,91923.27
+301,51318,plan de jubilación,Activos financieros,127615.68
+302,43098,plan de jubilación,Activos financieros,24708.25
+303,48549,plan de jubilación,Activos financieros,184960.81
+304,47147,plan de jubilación,Activos financieros,11336.90
+305,43788,inversiones,Activos financieros,250951.63
+306,46710,inversiones,Activos financieros,285285.10
+307,46887,plan de jubilación,Activos financieros,146180.51
+308,46251,plan de jubilación,Activos financieros,132146.14
+309,48003,plan de jubilación,Activos financieros,49464.84
+310,48683,plan de jubilación,Activos financieros,160522.26
+311,50270,ahorro,Activos financieros,47266.03
+312,45718,plan de jubilación,Activos financieros,83659.27
+313,47033,ahorro,Activos financieros,33315.46
+314,48215,plan de jubilación,Activos financieros,75613.36
+315,54054,inversiones,Activos financieros,11972.44
+316,46834,plan de jubilación,Activos financieros,66837.72
+317,53808,plan de jubilación,Activos financieros,216903.09
+318,45606,inversiones,Activos financieros,260940.88
+319,51306,plan de jubilación,Activos financieros,18280.00
+320,51668,plan de jubilación,Activos financieros,157545.30
+321,54373,inversiones,Activos financieros,133170.25
+322,42965,ahorro,Activos financieros,27072.10
+323,47574,plan de jubilación,Activos financieros,112338.44
+324,51912,plan de jubilación,Activos financieros,34749.39
+325,50959,inversiones,Activos financieros,239994.81
+326,54420,ahorro,Activos financieros,31419.64
+327,46548,inversiones,Activos financieros,122989.22
+328,48216,ahorro,Activos financieros,46414.07
+329,51812,inversiones,Activos financieros,249810.81
+330,48848,inversiones,Activos financieros,88266.61
+331,50824,plan de jubilación,Activos financieros,106795.13
+332,53721,plan de jubilación,Activos financieros,64714.07
+333,42916,ahorro,Activos financieros,38666.81
+334,44602,inversiones,Activos financieros,224141.47
+335,50554,ahorro,Activos financieros,27986.62
+336,50484,plan de jubilación,Activos financieros,233890.86
+337,54613,plan de jubilación,Activos financieros,206034.62
+338,50359,inversiones,Activos financieros,90268.20
+339,51386,inversiones,Activos financieros,299671.80
+340,52841,ahorro,Activos financieros,44931.47
+341,44562,plan de jubilación,Activos financieros,86447.79
+342,46807,plan de jubilación,Activos financieros,116559.43
+343,49598,ahorro,Activos financieros,98087.08
+344,52062,inversiones,Activos financieros,115508.28
+345,43292,ahorro,Activos financieros,32158.54
+346,43623,inversiones,Activos financieros,274115.62
+347,43554,plan de jubilación,Activos financieros,247161.43
+348,54247,ahorro,Activos financieros,49785.20
+349,45360,ahorro,Activos financieros,50477.97
+350,50792,plan de jubilación,Activos financieros,218076.58
+351,51540,ahorro,Activos financieros,52832.13
+352,49682,ahorro,Activos financieros,72383.16
+353,44116,inversiones,Activos financieros,291017.08
+354,45326,plan de jubilación,Activos financieros,196473.70
+355,44188,plan de jubilación,Activos financieros,157698.55
+356,47041,inversiones,Activos financieros,25014.28
+357,53501,inversiones,Activos financieros,257943.31
+358,45090,plan de jubilación,Activos financieros,158565.80
+359,50936,inversiones,Activos financieros,11733.83
+360,52698,ahorro,Activos financieros,63300.52
+361,53097,ahorro,Activos financieros,74803.25
+362,48255,ahorro,Activos financieros,76156.78
+363,51844,ahorro,Activos financieros,44646.02
+364,50982,plan de jubilación,Activos financieros,226338.90
+365,53222,plan de jubilación,Activos financieros,200055.15
+366,50507,plan de jubilación,Activos financieros,96836.07
+367,52234,ahorro,Activos financieros,53351.05
+368,50828,inversiones,Activos financieros,237963.32
+369,43684,ahorro,Activos financieros,8357.35
+370,45982,inversiones,Activos financieros,205257.24
+371,44447,inversiones,Activos financieros,43792.20
+372,43324,inversiones,Activos financieros,76939.22
+373,51653,inversiones,Activos financieros,3809.83
+374,44888,plan de jubilación,Activos financieros,171014.67
+375,52433,ahorro,Activos financieros,44452.11
+376,52631,inversiones,Activos financieros,90447.12
+377,52642,inversiones,Activos financieros,75779.37
+378,52965,ahorro,Activos financieros,99937.67
+379,45966,ahorro,Activos financieros,24101.97
+380,46497,plan de jubilación,Activos financieros,145828.92
+381,49901,plan de jubilación,Activos financieros,10375.20
+382,53635,plan de jubilación,Activos financieros,72247.69
+383,50828,inversiones,Activos financieros,233715.17
+384,52848,inversiones,Activos financieros,223806.47
+385,43935,ahorro,Activos financieros,60902.97
+386,54574,ahorro,Activos financieros,63843.48
+387,47458,plan de jubilación,Activos financieros,171052.29
+388,46185,inversiones,Activos financieros,204575.67
+389,54214,inversiones,Activos financieros,30052.02
+390,49487,inversiones,Activos financieros,12787.35
+391,48024,ahorro,Activos financieros,58167.59
+392,48854,ahorro,Activos financieros,9468.27
+393,44266,plan de jubilación,Activos financieros,188132.81
+394,54584,ahorro,Activos financieros,13649.90
+395,43439,plan de jubilación,Activos financieros,135058.83
+396,51382,ahorro,Activos financieros,26068.52
+397,47145,plan de jubilación,Activos financieros,187907.04
+398,49067,ahorro,Activos financieros,47098.97
+399,53954,ahorro,Activos financieros,75538.07
+400,46288,inversiones,Activos financieros,217540.80
+401,48194,inversiones,Activos financieros,110366.74
+402,51215,ahorro,Activos financieros,26813.63
+403,49842,plan de jubilación,Activos financieros,95303.49
+404,51059,plan de jubilación,Activos financieros,148217.22
+405,46622,plan de jubilación,Activos financieros,31544.80
+406,43810,plan de jubilación,Activos financieros,11131.04
+407,54479,plan de jubilación,Activos financieros,229237.70
+408,54199,inversiones,Activos financieros,19901.90
+409,46275,inversiones,Activos financieros,91354.86
+410,50980,ahorro,Activos financieros,14407.81
+411,42932,plan de jubilación,Activos financieros,249002.21
+412,52705,ahorro,Activos financieros,23862.60
+413,45717,ahorro,Activos financieros,39170.26
+414,49852,inversiones,Activos financieros,284864.85
+415,47333,inversiones,Activos financieros,126318.90
+416,43085,ahorro,Activos financieros,88598.67
+417,54526,ahorro,Activos financieros,83452.46
+418,49651,plan de jubilación,Activos financieros,235068.00
+419,49479,ahorro,Activos financieros,69182.93
+420,42779,plan de jubilación,Activos financieros,113950.49
+421,49391,plan de jubilación,Activos financieros,29341.88
+422,46833,plan de jubilación,Activos financieros,138394.14
+423,54430,plan de jubilación,Activos financieros,19834.77
+424,51479,ahorro,Activos financieros,96836.58
+425,49314,ahorro,Activos financieros,66445.49
+426,43760,inversiones,Activos financieros,179546.64
+427,52798,ahorro,Activos financieros,78786.06
+428,53938,ahorro,Activos financieros,78804.32
+429,50497,ahorro,Activos financieros,83066.87
+430,44237,ahorro,Activos financieros,58845.12
+431,51544,plan de jubilación,Activos financieros,194720.30
+432,48886,ahorro,Activos financieros,28088.85
+433,51222,ahorro,Activos financieros,54251.44
+434,53878,ahorro,Activos financieros,66275.24
+435,47809,ahorro,Activos financieros,1978.60
+436,43981,inversiones,Activos financieros,97807.67
+437,46108,plan de jubilación,Activos financieros,17837.76
+438,53449,inversiones,Activos financieros,34981.14
+439,49941,plan de jubilación,Activos financieros,114827.43
+440,45657,inversiones,Activos financieros,178506.14
+441,51270,inversiones,Activos financieros,67243.38
+442,50369,ahorro,Activos financieros,72860.68
+443,43389,inversiones,Activos financieros,91187.47
+444,48392,ahorro,Activos financieros,6552.13
+445,53272,plan de jubilación,Activos financieros,109437.04
+446,43322,plan de jubilación,Activos financieros,179538.32
+447,50456,ahorro,Activos financieros,89977.04
+448,46484,inversiones,Activos financieros,45351.81
+449,50167,plan de jubilación,Activos financieros,157957.79
+450,48683,inversiones,Activos financieros,213933.69
+451,52898,inversiones,Activos financieros,159636.49
+452,52608,inversiones,Activos financieros,182022.61
+453,43895,inversiones,Activos financieros,35209.81
+454,48285,inversiones,Activos financieros,263434.16
+455,48395,inversiones,Activos financieros,259782.20
+456,52590,plan de jubilación,Activos financieros,222582.30
+457,54471,plan de jubilación,Activos financieros,207717.71
+458,47051,plan de jubilación,Activos financieros,183755.06
+459,54535,plan de jubilación,Activos financieros,81568.27
+460,53066,plan de jubilación,Activos financieros,238630.17
+461,47402,plan de jubilación,Activos financieros,21447.66
+462,43926,ahorro,Activos financieros,43471.71
+463,49868,ahorro,Activos financieros,55858.89
+464,54616,inversiones,Activos financieros,168943.33
+465,43659,ahorro,Activos financieros,41375.46
+466,49632,plan de jubilación,Activos financieros,217682.58
+467,52921,ahorro,Activos financieros,96855.66
+468,51541,plan de jubilación,Activos financieros,91153.32
+469,44450,inversiones,Activos financieros,64608.90
+470,44290,plan de jubilación,Activos financieros,59939.99
+471,53012,plan de jubilación,Activos financieros,212116.49
+472,43946,ahorro,Activos financieros,76379.26
+473,46031,ahorro,Activos financieros,80818.53
+474,50211,inversiones,Activos financieros,184458.41
+475,45604,inversiones,Activos financieros,8849.90
+476,49566,inversiones,Activos financieros,80966.87
+477,43869,plan de jubilación,Activos financieros,177161.20
+478,52537,plan de jubilación,Activos financieros,91000.74
+479,52377,ahorro,Activos financieros,56848.95
+480,49184,ahorro,Activos financieros,14616.53
+481,51881,ahorro,Activos financieros,9629.89
+482,44466,ahorro,Activos financieros,37931.34
+483,48060,plan de jubilación,Activos financieros,43565.27
+484,43268,inversiones,Activos financieros,97990.48
+485,49815,inversiones,Activos financieros,26402.15
+486,43179,ahorro,Activos financieros,16162.28
+487,42900,ahorro,Activos financieros,67559.89
+488,51197,plan de jubilación,Activos financieros,167174.98
+489,42966,inversiones,Activos financieros,133171.21
+490,50162,ahorro,Activos financieros,75616.84
+491,48507,plan de jubilación,Activos financieros,110328.84
+492,53170,inversiones,Activos financieros,203867.39
+493,53628,inversiones,Activos financieros,200472.64
+494,46793,ahorro,Activos financieros,39828.71
+495,51999,ahorro,Activos financieros,1264.87
+496,48758,ahorro,Activos financieros,76851.28
+497,47131,plan de jubilación,Activos financieros,85389.98
+498,46681,plan de jubilación,Activos financieros,188018.46
+499,50061,ahorro,Activos financieros,38330.64
+500,52768,ahorro,Activos financieros,50276.10
+501,53554,plan de jubilación,Activos financieros,22658.50
+502,52014,plan de jubilación,Activos financieros,9591.68
+503,46210,plan de jubilación,Activos financieros,146060.99
+504,45750,plan de jubilación,Activos financieros,178827.25
+505,54393,plan de jubilación,Activos financieros,33217.48
+506,47749,plan de jubilación,Activos financieros,47108.93
+507,44515,plan de jubilación,Activos financieros,208846.35
+508,48187,ahorro,Activos financieros,43952.82
+509,51671,ahorro,Activos financieros,43849.81
+510,45614,inversiones,Activos financieros,24515.48
+511,53369,inversiones,Activos financieros,102514.47
+512,48483,ahorro,Activos financieros,8099.75
+513,51234,ahorro,Activos financieros,53295.18
+514,52426,plan de jubilación,Activos financieros,91019.44
+515,45168,ahorro,Activos financieros,24008.75
+516,47296,plan de jubilación,Activos financieros,53331.59
+517,53201,ahorro,Activos financieros,76141.42
+518,49459,ahorro,Activos financieros,18126.04
+519,42732,plan de jubilación,Activos financieros,118668.50
+520,44441,inversiones,Activos financieros,135222.67
+521,53864,inversiones,Activos financieros,190954.20
+522,50122,plan de jubilación,Activos financieros,216740.48
+523,49626,plan de jubilación,Activos financieros,41984.56
+524,45404,plan de jubilación,Activos financieros,113340.98
+525,51920,plan de jubilación,Activos financieros,149897.84
+526,50382,inversiones,Activos financieros,23183.01
+527,51418,plan de jubilación,Activos financieros,14213.78
+528,48244,plan de jubilación,Activos financieros,23799.10
+529,51773,inversiones,Activos financieros,178629.87
+530,54142,plan de jubilación,Activos financieros,147180.70
+531,45771,plan de jubilación,Activos financieros,227717.24
+532,47014,inversiones,Activos financieros,57283.60
+533,47588,plan de jubilación,Activos financieros,127834.99
+534,53682,plan de jubilación,Activos financieros,30357.96
+535,43504,inversiones,Activos financieros,26214.41
+536,51820,ahorro,Activos financieros,4394.64
+537,43621,plan de jubilación,Activos financieros,247791.58
+538,51080,inversiones,Activos financieros,183331.82
+539,50192,plan de jubilación,Activos financieros,229894.51
+540,47881,plan de jubilación,Activos financieros,194743.87
+541,43418,inversiones,Activos financieros,16657.29
+542,51838,inversiones,Activos financieros,101060.15
+543,49986,ahorro,Activos financieros,56017.34
+544,48021,plan de jubilación,Activos financieros,66738.97
+545,53908,inversiones,Activos financieros,262110.62
+546,45976,ahorro,Activos financieros,58482.58
+547,49850,plan de jubilación,Activos financieros,81006.78
+548,45696,inversiones,Activos financieros,198978.41
+549,43335,inversiones,Activos financieros,212941.37
+550,43423,plan de jubilación,Activos financieros,141935.91
+551,47512,plan de jubilación,Activos financieros,204230.27
+552,49763,inversiones,Activos financieros,248858.73
+553,53751,inversiones,Activos financieros,28942.44
+554,49276,plan de jubilación,Activos financieros,129579.68
+555,50745,plan de jubilación,Activos financieros,80672.19
+556,49503,plan de jubilación,Activos financieros,237178.73
+557,44694,ahorro,Activos financieros,23041.03
+558,49229,ahorro,Activos financieros,8177.93
+559,48594,inversiones,Activos financieros,231491.54
+560,49658,ahorro,Activos financieros,66361.96
+561,51370,ahorro,Activos financieros,59926.02
+562,47488,ahorro,Activos financieros,18494.17
+563,52844,inversiones,Activos financieros,242904.07
+564,53538,inversiones,Activos financieros,131864.35
+565,44755,plan de jubilación,Activos financieros,170708.92
+566,51510,plan de jubilación,Activos financieros,154595.88
+567,50581,ahorro,Activos financieros,53634.11
+568,49006,plan de jubilación,Activos financieros,226473.71
+569,54571,plan de jubilación,Activos financieros,171185.17
+570,52683,plan de jubilación,Activos financieros,118111.59
+571,51530,plan de jubilación,Activos financieros,128212.14
+572,50536,ahorro,Activos financieros,81780.68
+573,51163,ahorro,Activos financieros,87363.69
+574,45898,inversiones,Activos financieros,144696.61
+575,44651,inversiones,Activos financieros,280353.77
+576,43783,inversiones,Activos financieros,255498.65
+577,45751,ahorro,Activos financieros,76430.12
+578,52908,plan de jubilación,Activos financieros,226800.02
+579,43518,plan de jubilación,Activos financieros,27469.82
+580,52262,plan de jubilación,Activos financieros,221734.29
+581,51410,plan de jubilación,Activos financieros,18047.94
+582,50349,plan de jubilación,Activos financieros,62765.63
+583,52305,plan de jubilación,Activos financieros,60012.00
+584,53588,ahorro,Activos financieros,83998.04
+585,54219,plan de jubilación,Activos financieros,198888.26
+586,45853,ahorro,Activos financieros,29044.50
+587,47611,inversiones,Activos financieros,249502.04
+588,48371,plan de jubilación,Activos financieros,114907.36
+589,48332,ahorro,Activos financieros,2390.89
+590,54268,ahorro,Activos financieros,55106.02
+591,43006,inversiones,Activos financieros,158803.68
+592,51759,plan de jubilación,Activos financieros,63221.86
+593,49707,ahorro,Activos financieros,24224.73
+594,50799,inversiones,Activos financieros,137676.97
+595,53637,plan de jubilación,Activos financieros,151201.07
+596,48795,inversiones,Activos financieros,155097.34
+597,47235,inversiones,Activos financieros,43929.48
+598,51297,ahorro,Activos financieros,61673.55
+599,49469,inversiones,Activos financieros,125553.71
+600,44936,inversiones,Activos financieros,26598.57
+601,50224,ahorro,Activos financieros,95363.67
+602,51824,inversiones,Activos financieros,236137.29
+603,49921,inversiones,Activos financieros,7079.96
+604,53488,ahorro,Activos financieros,63749.24
+605,54258,plan de jubilación,Activos financieros,188092.56
+606,46396,ahorro,Activos financieros,34807.85
+607,46176,inversiones,Activos financieros,31995.50
+608,53902,inversiones,Activos financieros,227247.00
+609,51987,ahorro,Activos financieros,35553.76
+610,43084,inversiones,Activos financieros,53351.65
+611,52639,plan de jubilación,Activos financieros,245300.70
+612,46874,inversiones,Activos financieros,55501.12
+613,48958,ahorro,Activos financieros,71746.48
+614,45251,ahorro,Activos financieros,29697.54
+615,43020,ahorro,Activos financieros,88636.14
+616,51013,plan de jubilación,Activos financieros,131268.98
+617,53506,plan de jubilación,Activos financieros,67061.87
+618,46853,ahorro,Activos financieros,28968.03
+619,43934,inversiones,Activos financieros,100245.48
+620,53284,plan de jubilación,Activos financieros,112053.09
+621,52002,inversiones,Activos financieros,132481.25
+622,43134,plan de jubilación,Activos financieros,243562.28
+623,43626,inversiones,Activos financieros,149759.49
+624,53573,plan de jubilación,Activos financieros,201281.28
+625,51276,plan de jubilación,Activos financieros,24337.12
+626,52731,ahorro,Activos financieros,54774.70
+627,47678,ahorro,Activos financieros,8466.86
+628,43012,plan de jubilación,Activos financieros,80091.48
+629,43051,inversiones,Activos financieros,128408.71
+630,46892,plan de jubilación,Activos financieros,91129.01
+631,52014,inversiones,Activos financieros,261141.12
+632,51323,inversiones,Activos financieros,299447.03
+633,53412,inversiones,Activos financieros,294028.16
+634,43360,ahorro,Activos financieros,67282.80
+635,46505,plan de jubilación,Activos financieros,130706.07
+636,43676,ahorro,Activos financieros,95302.54
+637,50362,inversiones,Activos financieros,203748.57
+638,44440,ahorro,Activos financieros,13059.89
+639,42913,inversiones,Activos financieros,110532.21
+640,46309,inversiones,Activos financieros,10683.21
+641,45400,inversiones,Activos financieros,135526.85
+642,54118,plan de jubilación,Activos financieros,113765.13
+643,46387,inversiones,Activos financieros,42170.84
+644,53981,plan de jubilación,Activos financieros,82024.43
+645,45075,ahorro,Activos financieros,96071.75
+646,43565,inversiones,Activos financieros,56628.37
+647,53952,plan de jubilación,Activos financieros,228817.91
+648,44159,plan de jubilación,Activos financieros,194866.30
+649,49679,plan de jubilación,Activos financieros,57569.75
+650,49284,plan de jubilación,Activos financieros,175025.26
+651,46857,ahorro,Activos financieros,12702.42
+652,53073,plan de jubilación,Activos financieros,47300.81
+653,47845,plan de jubilación,Activos financieros,249329.29
+654,47958,plan de jubilación,Activos financieros,168620.75
+655,46568,ahorro,Activos financieros,55224.72
+656,52174,plan de jubilación,Activos financieros,213583.70
+657,44388,inversiones,Activos financieros,278270.01
+658,43450,ahorro,Activos financieros,79472.79
+659,54357,ahorro,Activos financieros,12575.56
+660,51129,ahorro,Activos financieros,24055.25
+661,47698,ahorro,Activos financieros,36409.20
+662,50647,plan de jubilación,Activos financieros,119514.43
+663,52128,ahorro,Activos financieros,61388.86
+664,46790,ahorro,Activos financieros,31274.43
+665,51453,inversiones,Activos financieros,144120.87
+666,43292,plan de jubilación,Activos financieros,206718.15
+667,49944,ahorro,Activos financieros,97251.78
+668,47544,ahorro,Activos financieros,45272.46
+669,50599,inversiones,Activos financieros,104009.92
+670,45515,inversiones,Activos financieros,176748.01
+671,50397,plan de jubilación,Activos financieros,128201.63
+672,52901,ahorro,Activos financieros,52051.16
+673,53517,ahorro,Activos financieros,16615.71
+674,53321,ahorro,Activos financieros,34929.30
+675,48474,plan de jubilación,Activos financieros,212253.76
+676,48281,ahorro,Activos financieros,63688.18
+677,50788,plan de jubilación,Activos financieros,35666.72
+678,51920,inversiones,Activos financieros,160509.93
+679,50237,inversiones,Activos financieros,51422.13
+680,46471,ahorro,Activos financieros,17534.46
+681,54453,inversiones,Activos financieros,270698.27
+682,54234,inversiones,Activos financieros,13317.10
+683,43176,ahorro,Activos financieros,5023.45
+684,51174,inversiones,Activos financieros,80132.12
+685,52047,inversiones,Activos financieros,125559.45
+686,49377,ahorro,Activos financieros,50054.79
+687,49421,inversiones,Activos financieros,87611.83
+688,52965,plan de jubilación,Activos financieros,64995.09
+689,48053,plan de jubilación,Activos financieros,77871.30
+690,47656,inversiones,Activos financieros,18914.00
+691,50811,plan de jubilación,Activos financieros,123641.53
+692,42924,plan de jubilación,Activos financieros,153631.76
+693,52686,inversiones,Activos financieros,96475.60
+694,49844,plan de jubilación,Activos financieros,37037.71
+695,43723,inversiones,Activos financieros,168933.71
+696,51180,ahorro,Activos financieros,46914.02
+697,47714,plan de jubilación,Activos financieros,65740.13
+698,44139,ahorro,Activos financieros,29376.09
+699,42756,inversiones,Activos financieros,126022.29
+700,45541,plan de jubilación,Activos financieros,233769.13
+701,52463,plan de jubilación,Activos financieros,51509.35
+702,43307,plan de jubilación,Activos financieros,249012.51
+703,45662,plan de jubilación,Activos financieros,220373.54
+704,43039,ahorro,Activos financieros,9459.88
+705,47729,inversiones,Activos financieros,137711.96
+706,52521,ahorro,Activos financieros,58542.74
+707,53130,ahorro,Activos financieros,28494.96
+708,52712,inversiones,Activos financieros,202083.66
+709,50183,inversiones,Activos financieros,3445.04
+710,43347,plan de jubilación,Activos financieros,37814.06
+711,47940,inversiones,Activos financieros,110367.51
+712,45327,plan de jubilación,Activos financieros,16084.39
+713,44618,inversiones,Activos financieros,168983.24
+714,52048,inversiones,Activos financieros,87291.91
+715,51830,inversiones,Activos financieros,135655.96
+716,47887,plan de jubilación,Activos financieros,207201.27
+717,45703,inversiones,Activos financieros,183701.90
+718,43398,ahorro,Activos financieros,39693.42
+719,45422,inversiones,Activos financieros,281745.62
+720,43242,ahorro,Activos financieros,60445.06
+721,45243,inversiones,Activos financieros,13036.22
+722,52814,ahorro,Activos financieros,71502.39
+723,47058,inversiones,Activos financieros,137639.58
+724,45654,inversiones,Activos financieros,42794.51
+725,51620,plan de jubilación,Activos financieros,44813.00
+726,53407,inversiones,Activos financieros,252937.98
+727,46580,plan de jubilación,Activos financieros,129292.17
+728,52794,inversiones,Activos financieros,147464.15
+729,50773,plan de jubilación,Activos financieros,121348.69
+730,50975,plan de jubilación,Activos financieros,86153.70
+731,43330,plan de jubilación,Activos financieros,148007.02
+732,47547,inversiones,Activos financieros,189148.88
+733,49880,plan de jubilación,Activos financieros,70054.96
+734,43903,inversiones,Activos financieros,173712.68
+735,47882,ahorro,Activos financieros,58560.57
+736,46341,inversiones,Activos financieros,189078.55
+737,51518,plan de jubilación,Activos financieros,41205.05
+738,44849,ahorro,Activos financieros,3641.27
+739,49838,ahorro,Activos financieros,19483.04
+740,54416,plan de jubilación,Activos financieros,107601.17
+741,53398,inversiones,Activos financieros,61963.61
+742,52773,inversiones,Activos financieros,276235.76
+743,47062,ahorro,Activos financieros,70724.64
+744,48612,ahorro,Activos financieros,56308.23
+745,44178,plan de jubilación,Activos financieros,133741.90
+746,50941,ahorro,Activos financieros,46236.52
+747,45729,plan de jubilación,Activos financieros,138836.94
+748,50169,inversiones,Activos financieros,204543.02
+749,53945,plan de jubilación,Activos financieros,154468.76
+750,51959,ahorro,Activos financieros,28261.14
+751,47825,ahorro,Activos financieros,94177.81
+752,49582,plan de jubilación,Activos financieros,177700.73
+753,43474,inversiones,Activos financieros,147211.92
+754,50374,plan de jubilación,Activos financieros,142319.46
+755,51293,plan de jubilación,Activos financieros,75508.40
+756,44708,inversiones,Activos financieros,163414.07
+757,51215,plan de jubilación,Activos financieros,238879.17
+758,47296,plan de jubilación,Activos financieros,15306.29
+759,48183,ahorro,Activos financieros,34963.17
+760,45393,inversiones,Activos financieros,77676.75
+761,44533,ahorro,Activos financieros,20605.77
+762,43510,plan de jubilación,Activos financieros,233590.86
+763,51165,plan de jubilación,Activos financieros,38631.87
+764,53686,inversiones,Activos financieros,176462.32
+765,53146,ahorro,Activos financieros,67148.48
+766,50108,ahorro,Activos financieros,63975.49
+767,46310,ahorro,Activos financieros,41623.49
+768,43290,plan de jubilación,Activos financieros,29633.50
+769,46984,ahorro,Activos financieros,96469.62
+770,52609,plan de jubilación,Activos financieros,164958.74
+771,51349,plan de jubilación,Activos financieros,164381.98
+772,47817,plan de jubilación,Activos financieros,74926.76
+773,52190,ahorro,Activos financieros,65403.72
+774,49646,inversiones,Activos financieros,221867.27
+775,51359,ahorro,Activos financieros,42079.56
+776,54652,ahorro,Activos financieros,99718.59
+777,54465,plan de jubilación,Activos financieros,50646.35
+778,52603,ahorro,Activos financieros,1422.08
+779,51609,inversiones,Activos financieros,33082.91
+780,46819,plan de jubilación,Activos financieros,116315.52
+781,49306,inversiones,Activos financieros,157771.24
+782,46501,inversiones,Activos financieros,140938.21
+783,52008,ahorro,Activos financieros,33403.07
+784,47805,plan de jubilación,Activos financieros,163829.91
+785,53667,ahorro,Activos financieros,1901.38
+786,46143,plan de jubilación,Activos financieros,144106.40
+787,54248,ahorro,Activos financieros,61289.97
+788,46489,plan de jubilación,Activos financieros,207612.51
+789,48084,plan de jubilación,Activos financieros,26250.75
+790,42697,ahorro,Activos financieros,18885.73
+791,44713,plan de jubilación,Activos financieros,84282.41
+792,47159,ahorro,Activos financieros,26448.14
+793,51341,plan de jubilación,Activos financieros,189670.38
+794,44033,plan de jubilación,Activos financieros,147702.88
+795,47830,ahorro,Activos financieros,26524.54
+796,52799,inversiones,Activos financieros,71654.47
+797,44427,ahorro,Activos financieros,46806.80
+798,45541,plan de jubilación,Activos financieros,173088.04
+799,48988,plan de jubilación,Activos financieros,174121.14
+800,46489,plan de jubilación,Activos financieros,95048.26
+801,43834,ahorro,Activos financieros,95757.37
+802,45088,ahorro,Activos financieros,45770.38
+803,43367,plan de jubilación,Activos financieros,106882.18
+804,45812,plan de jubilación,Activos financieros,190550.88
+805,50039,ahorro,Activos financieros,76305.03
+806,53026,inversiones,Activos financieros,262067.38
+807,49194,inversiones,Activos financieros,134577.65
+808,50958,plan de jubilación,Activos financieros,24135.17
+809,49177,ahorro,Activos financieros,6644.93
+810,44131,inversiones,Activos financieros,61444.88
+811,48104,ahorro,Activos financieros,16871.45
+812,48116,plan de jubilación,Activos financieros,33478.81
+813,43871,inversiones,Activos financieros,175361.16
+814,43007,inversiones,Activos financieros,134199.32
+815,45675,plan de jubilación,Activos financieros,37326.36
+816,47522,plan de jubilación,Activos financieros,143158.24
+817,49044,plan de jubilación,Activos financieros,169828.09
+818,54018,inversiones,Activos financieros,7509.37
+819,46750,ahorro,Activos financieros,74707.55
+820,50415,ahorro,Activos financieros,5006.34
+821,46000,inversiones,Activos financieros,20064.21
+822,52447,ahorro,Activos financieros,98620.66
+823,45201,ahorro,Activos financieros,29065.53
+824,49669,ahorro,Activos financieros,76699.85
+825,43345,inversiones,Activos financieros,289170.99
+826,48904,plan de jubilación,Activos financieros,114891.60
+827,53025,plan de jubilación,Activos financieros,24661.25
+828,44087,inversiones,Activos financieros,40763.95
+829,48639,ahorro,Activos financieros,18258.13
+830,53331,plan de jubilación,Activos financieros,134566.42
+831,49345,ahorro,Activos financieros,83564.75
+832,51338,plan de jubilación,Activos financieros,118435.96
+833,47268,inversiones,Activos financieros,127814.28
+834,51995,ahorro,Activos financieros,25127.45
+835,54635,ahorro,Activos financieros,27927.15
+836,47815,ahorro,Activos financieros,3705.62
+837,50705,plan de jubilación,Activos financieros,155656.19
+838,46961,ahorro,Activos financieros,21005.12
+839,43177,inversiones,Activos financieros,11039.31
+840,52276,inversiones,Activos financieros,211282.59
+841,53130,ahorro,Activos financieros,74183.84
+842,54155,plan de jubilación,Activos financieros,62413.12
+843,42779,ahorro,Activos financieros,14443.49
+844,50383,ahorro,Activos financieros,81670.73
+845,50113,inversiones,Activos financieros,96352.21
+846,52893,inversiones,Activos financieros,245696.36
+847,52494,plan de jubilación,Activos financieros,219683.29
+848,50705,inversiones,Activos financieros,67091.78
+849,48595,plan de jubilación,Activos financieros,19934.62
+850,54090,inversiones,Activos financieros,273561.72
+851,50303,inversiones,Activos financieros,128732.97
+852,49124,ahorro,Activos financieros,97242.88
+853,48392,inversiones,Activos financieros,114965.24
+854,48923,plan de jubilación,Activos financieros,175595.56
+855,45876,ahorro,Activos financieros,30338.91
+856,50537,inversiones,Activos financieros,142582.13
+857,50833,plan de jubilación,Activos financieros,215097.60
+858,54143,plan de jubilación,Activos financieros,229111.59
+859,42973,plan de jubilación,Activos financieros,242107.62
+860,49683,inversiones,Activos financieros,41093.73
+861,54206,plan de jubilación,Activos financieros,54817.50
+862,47727,ahorro,Activos financieros,92261.50
+863,51513,ahorro,Activos financieros,53795.74
+864,47372,ahorro,Activos financieros,27211.93
+865,54505,inversiones,Activos financieros,181273.69
+866,51911,ahorro,Activos financieros,80562.74
+867,46083,inversiones,Activos financieros,201763.71
+868,47263,plan de jubilación,Activos financieros,56177.83
+869,45608,plan de jubilación,Activos financieros,239469.84
+870,46937,ahorro,Activos financieros,93747.40
+871,54602,inversiones,Activos financieros,299872.03
+872,53514,ahorro,Activos financieros,69714.82
+873,50958,ahorro,Activos financieros,39964.89
+874,51285,inversiones,Activos financieros,97162.89
+875,53148,plan de jubilación,Activos financieros,119231.36
+876,50314,plan de jubilación,Activos financieros,80563.46
+877,43763,inversiones,Activos financieros,264960.77
+878,50200,ahorro,Activos financieros,80380.25
+879,52490,plan de jubilación,Activos financieros,191599.10
+880,53313,ahorro,Activos financieros,37385.14
+881,48336,ahorro,Activos financieros,56471.21
+882,45586,inversiones,Activos financieros,44630.89
+883,52331,inversiones,Activos financieros,280492.72
+884,52637,inversiones,Activos financieros,125855.84
+885,45185,ahorro,Activos financieros,33321.60
+886,48127,inversiones,Activos financieros,250175.45
+887,43835,inversiones,Activos financieros,196727.78
+888,49938,plan de jubilación,Activos financieros,68045.06
+889,46776,inversiones,Activos financieros,192866.64
+890,54316,plan de jubilación,Activos financieros,46217.24
+891,52941,ahorro,Activos financieros,14425.87
+892,43679,plan de jubilación,Activos financieros,50091.70
+893,45924,inversiones,Activos financieros,287213.83
+894,46313,ahorro,Activos financieros,83987.32
+895,50047,inversiones,Activos financieros,15505.80
+896,49288,plan de jubilación,Activos financieros,38685.42
+897,44496,ahorro,Activos financieros,7262.81
+898,54615,ahorro,Activos financieros,22262.61
+899,45188,plan de jubilación,Activos financieros,19810.28
+900,43450,inversiones,Activos financieros,280237.21
+901,45966,inversiones,Activos financieros,146868.46
+902,53962,inversiones,Activos financieros,165941.42
+903,47207,ahorro,Activos financieros,53177.06
+904,47886,inversiones,Activos financieros,293266.33
+905,51557,inversiones,Activos financieros,244134.01
+906,49427,plan de jubilación,Activos financieros,202511.09
+907,54116,ahorro,Activos financieros,91845.86
+908,51196,ahorro,Activos financieros,24476.40
+909,44776,inversiones,Activos financieros,76473.04
+910,48196,plan de jubilación,Activos financieros,199759.40
+911,48307,plan de jubilación,Activos financieros,240027.96
+912,45310,inversiones,Activos financieros,73719.16
+913,51000,ahorro,Activos financieros,30347.48
+914,48573,inversiones,Activos financieros,297510.74
+915,49109,ahorro,Activos financieros,9803.30
+916,53304,plan de jubilación,Activos financieros,140411.85
+917,50500,inversiones,Activos financieros,3825.60
+918,48741,ahorro,Activos financieros,50235.91
+919,51058,inversiones,Activos financieros,235528.52
+920,52326,ahorro,Activos financieros,89531.73
+921,47158,ahorro,Activos financieros,21536.00
+922,48068,inversiones,Activos financieros,143174.59
+923,44328,ahorro,Activos financieros,68600.66
+924,52388,inversiones,Activos financieros,169489.45
+925,53567,ahorro,Activos financieros,92912.25
+926,51856,ahorro,Activos financieros,96166.18
+927,44527,ahorro,Activos financieros,75349.32
+928,48306,plan de jubilación,Activos financieros,232574.36
+929,43067,ahorro,Activos financieros,56613.84
+930,43823,plan de jubilación,Activos financieros,170873.57
+931,52964,plan de jubilación,Activos financieros,99042.32
+932,50515,inversiones,Activos financieros,217524.91
+933,43702,inversiones,Activos financieros,292322.67
+934,48951,ahorro,Activos financieros,43990.28
+935,50619,plan de jubilación,Activos financieros,153266.34
+936,46151,inversiones,Activos financieros,119614.21
+937,53714,ahorro,Activos financieros,63595.23
+938,54560,plan de jubilación,Activos financieros,60893.91
+939,52912,plan de jubilación,Activos financieros,110802.75
+940,52978,inversiones,Activos financieros,198540.90
+941,52623,inversiones,Activos financieros,89318.46
+942,48249,inversiones,Activos financieros,22978.50
+943,47188,ahorro,Activos financieros,38310.00
+944,52322,ahorro,Activos financieros,74095.70
+945,46264,plan de jubilación,Activos financieros,31104.97
+946,54477,plan de jubilación,Activos financieros,113960.29
+947,54189,ahorro,Activos financieros,13684.45
+948,49637,plan de jubilación,Activos financieros,114966.70
+949,45373,inversiones,Activos financieros,123005.21
+950,48452,ahorro,Activos financieros,35714.47
+951,52928,inversiones,Activos financieros,179815.10
+952,45074,plan de jubilación,Activos financieros,8023.45
+953,54471,plan de jubilación,Activos financieros,195896.43
+954,49681,inversiones,Activos financieros,271657.06
+955,45078,inversiones,Activos financieros,156810.25
+956,52896,plan de jubilación,Activos financieros,46527.93
+957,48556,plan de jubilación,Activos financieros,70759.67
+958,43650,ahorro,Activos financieros,17137.14
+959,51385,plan de jubilación,Activos financieros,78439.30
+960,50417,plan de jubilación,Activos financieros,66666.44
+961,42783,inversiones,Activos financieros,187885.07
+962,47001,inversiones,Activos financieros,59468.92
+963,52752,ahorro,Activos financieros,30813.47
+964,53604,plan de jubilación,Activos financieros,211195.28
+965,45798,plan de jubilación,Activos financieros,112854.62
+966,47307,inversiones,Activos financieros,292293.39
+967,53440,plan de jubilación,Activos financieros,83562.96
+968,44771,ahorro,Activos financieros,48161.47
+969,52385,plan de jubilación,Activos financieros,242337.68
+970,53896,inversiones,Activos financieros,208792.37
+971,46401,inversiones,Activos financieros,234810.34
+972,51394,plan de jubilación,Activos financieros,73673.54
+973,48020,plan de jubilación,Activos financieros,32902.52
+974,44406,ahorro,Activos financieros,59426.59
+975,53540,ahorro,Activos financieros,68330.41
+976,44133,ahorro,Activos financieros,95323.96
+977,52993,inversiones,Activos financieros,63684.87
+978,43425,inversiones,Activos financieros,21678.44
+979,43458,inversiones,Activos financieros,150291.66
+980,52460,plan de jubilación,Activos financieros,64295.19
+981,53300,ahorro,Activos financieros,71666.02
+982,49348,ahorro,Activos financieros,45182.14
+983,52893,plan de jubilación,Activos financieros,147649.78
+984,54344,inversiones,Activos financieros,277125.23
+985,42682,plan de jubilación,Activos financieros,138193.07
+986,52799,inversiones,Activos financieros,268754.95
+987,49731,inversiones,Activos financieros,191815.93
+988,44354,ahorro,Activos financieros,77010.93
+989,43313,inversiones,Activos financieros,107147.64
+990,44567,inversiones,Activos financieros,14244.71
+991,44278,inversiones,Activos financieros,194376.34
+992,53084,plan de jubilación,Activos financieros,30956.42
+993,49273,plan de jubilación,Activos financieros,59390.26
+994,49713,inversiones,Activos financieros,174574.97
+995,46710,ahorro,Activos financieros,44854.97
+996,50916,plan de jubilación,Activos financieros,194223.85
+997,47085,inversiones,Activos financieros,150639.27
+998,44491,ahorro,Activos financieros,48535.72
+999,45048,plan de jubilación,Activos financieros,230534.15
+1000,50092,ahorro,Activos financieros,83216.12
+1001,42810,ahorro,Activos financieros,35158.70
+1002,42757,plan de jubilación,Activos financieros,197146.15
+1003,45932,plan de jubilación,Activos financieros,90333.57
+1004,50937,plan de jubilación,Activos financieros,181888.52
+1005,45007,plan de jubilación,Activos financieros,21457.71
+1006,54216,inversiones,Activos financieros,35410.49
+1007,42757,inversiones,Activos financieros,33699.44
+1008,47316,inversiones,Activos financieros,73929.97
+1009,53878,inversiones,Activos financieros,48880.58
+1010,44765,plan de jubilación,Activos financieros,239823.34
+1011,48204,plan de jubilación,Activos financieros,159291.28
+1012,45084,inversiones,Activos financieros,197535.07
+1013,53646,ahorro,Activos financieros,73870.14
+1014,54264,plan de jubilación,Activos financieros,150089.77
+1015,54028,ahorro,Activos financieros,70621.19
+1016,48294,plan de jubilación,Activos financieros,189319.75
+1017,49131,inversiones,Activos financieros,31423.86
+1018,49731,ahorro,Activos financieros,36896.41
+1019,54217,plan de jubilación,Activos financieros,32918.97
+1020,53989,plan de jubilación,Activos financieros,134290.18
+1021,45348,plan de jubilación,Activos financieros,151257.85
+1022,52417,plan de jubilación,Activos financieros,148816.16
+1023,46571,plan de jubilación,Activos financieros,212151.86
+1024,51661,ahorro,Activos financieros,81466.96
+1025,48269,plan de jubilación,Activos financieros,230077.23
+1026,50792,ahorro,Activos financieros,67374.95
+1027,52055,ahorro,Activos financieros,24237.99
+1028,50627,ahorro,Activos financieros,37643.95
+1029,52536,inversiones,Activos financieros,117150.52
+1030,53874,ahorro,Activos financieros,57693.20
+1031,42886,ahorro,Activos financieros,48923.69
+1032,54480,inversiones,Activos financieros,275829.14
+1033,50944,inversiones,Activos financieros,50892.79
+1034,45906,ahorro,Activos financieros,19116.31
+1035,52484,inversiones,Activos financieros,17029.77
+1036,49075,ahorro,Activos financieros,48718.59
+1037,44868,plan de jubilación,Activos financieros,241138.13
+1038,46866,inversiones,Activos financieros,148995.98
+1039,53768,plan de jubilación,Activos financieros,106829.46
+1040,49534,plan de jubilación,Activos financieros,45977.10
+1041,53023,ahorro,Activos financieros,79690.15
+1042,54285,plan de jubilación,Activos financieros,13010.30
+1043,53624,inversiones,Activos financieros,87312.42
+1044,44375,inversiones,Activos financieros,223012.96
+1045,52842,inversiones,Activos financieros,153730.99
+1046,48785,ahorro,Activos financieros,27154.95
+1047,53630,plan de jubilación,Activos financieros,137800.63
+1048,42984,inversiones,Activos financieros,132968.61
+1049,49701,plan de jubilación,Activos financieros,30092.03
+1050,47070,ahorro,Activos financieros,30122.04
+1051,53262,plan de jubilación,Activos financieros,69389.73
+1052,46354,plan de jubilación,Activos financieros,216996.17
+1053,45457,ahorro,Activos financieros,21382.88
+1054,51155,inversiones,Activos financieros,105838.62
+1055,45135,inversiones,Activos financieros,190198.42
+1056,49103,inversiones,Activos financieros,42631.25
+1057,47648,ahorro,Activos financieros,80641.33
+1058,45408,plan de jubilación,Activos financieros,135408.80
+1059,45452,inversiones,Activos financieros,51344.83
+1060,43482,plan de jubilación,Activos financieros,75886.64
+1061,44306,inversiones,Activos financieros,295661.00
+1062,53456,ahorro,Activos financieros,13991.10
+1063,52287,ahorro,Activos financieros,99252.38
+1064,52134,ahorro,Activos financieros,70291.94
+1065,47691,ahorro,Activos financieros,15051.22
+1066,46484,ahorro,Activos financieros,76266.62
+1067,53442,plan de jubilación,Activos financieros,124917.39
+1068,46439,inversiones,Activos financieros,81346.43
+1069,47959,plan de jubilación,Activos financieros,115737.97
+1070,48663,ahorro,Activos financieros,40583.65
+1071,46737,inversiones,Activos financieros,280964.50
+1072,45043,plan de jubilación,Activos financieros,237812.25
+1073,52009,inversiones,Activos financieros,1739.45
+1074,42823,inversiones,Activos financieros,291672.94
+1075,47450,inversiones,Activos financieros,209489.40
+1076,47986,inversiones,Activos financieros,119917.04
+1077,48697,ahorro,Activos financieros,49724.14
+1078,45566,plan de jubilación,Activos financieros,87750.01
+1079,44450,ahorro,Activos financieros,56831.14
+1080,53979,plan de jubilación,Activos financieros,224067.89
+1081,54324,ahorro,Activos financieros,10407.69
+1082,45561,ahorro,Activos financieros,12861.60
+1083,52433,plan de jubilación,Activos financieros,116846.94
+1084,43037,ahorro,Activos financieros,99571.56
+1085,54289,inversiones,Activos financieros,91257.79
+1086,46402,ahorro,Activos financieros,65631.50
+1087,44052,ahorro,Activos financieros,37498.45
+1088,49164,ahorro,Activos financieros,5652.83
+1089,52197,plan de jubilación,Activos financieros,182867.15
+1090,48799,plan de jubilación,Activos financieros,165593.88
+1091,48679,ahorro,Activos financieros,608.09
+1092,48513,ahorro,Activos financieros,13703.63
+1093,44992,inversiones,Activos financieros,204314.83
+1094,47178,ahorro,Activos financieros,69711.91
+1095,44414,plan de jubilación,Activos financieros,175037.60
+1096,50945,ahorro,Activos financieros,23280.21
+1097,48681,inversiones,Activos financieros,241981.09
+1098,51624,plan de jubilación,Activos financieros,95052.61
+1099,44422,ahorro,Activos financieros,38580.74
+1100,49640,inversiones,Activos financieros,297889.11
+1101,45962,ahorro,Activos financieros,53285.57
+1102,51402,inversiones,Activos financieros,195356.04
+1103,43665,plan de jubilación,Activos financieros,181995.85
+1104,49818,inversiones,Activos financieros,46260.87
+1105,52957,inversiones,Activos financieros,206283.28
+1106,42779,ahorro,Activos financieros,89711.00
+1107,49742,ahorro,Activos financieros,59162.60
+1108,47199,plan de jubilación,Activos financieros,240995.93
+1109,51856,ahorro,Activos financieros,25154.74
+1110,52310,ahorro,Activos financieros,25192.62
+1111,51238,inversiones,Activos financieros,216632.71
+1112,50913,inversiones,Activos financieros,9020.50
+1113,50281,plan de jubilación,Activos financieros,55334.20
+1114,47647,inversiones,Activos financieros,57405.31
+1115,45753,plan de jubilación,Activos financieros,163311.59
+1116,51285,plan de jubilación,Activos financieros,99541.97
+1117,45144,plan de jubilación,Activos financieros,161330.17
+1118,42667,inversiones,Activos financieros,266728.63
+1119,49603,plan de jubilación,Activos financieros,233811.48
+1120,46431,plan de jubilación,Activos financieros,215899.43
+1121,46881,plan de jubilación,Activos financieros,94526.05
+1122,51971,ahorro,Activos financieros,76391.23
+1123,47656,ahorro,Activos financieros,58942.67
+1124,53225,plan de jubilación,Activos financieros,57857.02
+1125,48919,plan de jubilación,Activos financieros,129119.60
+1126,50926,inversiones,Activos financieros,150813.64
+1127,47522,plan de jubilación,Activos financieros,176943.61
+1128,43667,inversiones,Activos financieros,161432.88
+1129,47254,ahorro,Activos financieros,28108.04
+1130,47347,ahorro,Activos financieros,51374.82
+1131,49989,ahorro,Activos financieros,53870.82
+1132,52229,inversiones,Activos financieros,190653.98
+1133,48153,inversiones,Activos financieros,193303.22
+1134,53694,inversiones,Activos financieros,131808.33
+1135,44658,ahorro,Activos financieros,24825.74
+1136,51136,ahorro,Activos financieros,45610.50
+1137,47583,ahorro,Activos financieros,31274.36
+1138,44373,inversiones,Activos financieros,53518.13
+1139,47305,inversiones,Activos financieros,42026.33
+1140,51113,ahorro,Activos financieros,49893.09
+1141,49346,inversiones,Activos financieros,155649.63
+1142,46358,plan de jubilación,Activos financieros,45905.92
+1143,47627,inversiones,Activos financieros,234556.07
+1144,50069,inversiones,Activos financieros,266038.01
+1145,48055,plan de jubilación,Activos financieros,202741.42
+1146,46308,inversiones,Activos financieros,20097.72
+1147,51239,inversiones,Activos financieros,188632.32
+1148,50109,plan de jubilación,Activos financieros,130141.56
+1149,44067,plan de jubilación,Activos financieros,215543.15
+1150,43194,plan de jubilación,Activos financieros,43540.95
+1151,49604,inversiones,Activos financieros,202562.01
+1152,45077,ahorro,Activos financieros,74207.61
+1153,46880,ahorro,Activos financieros,85939.56
+1154,50865,ahorro,Activos financieros,5075.16
+1155,52072,plan de jubilación,Activos financieros,230455.50
+1156,53167,ahorro,Activos financieros,55510.05
+1157,45659,inversiones,Activos financieros,197055.29
+1158,51179,plan de jubilación,Activos financieros,65824.48
+1159,49436,plan de jubilación,Activos financieros,71458.20
+1160,46410,inversiones,Activos financieros,112469.64
+1161,50381,inversiones,Activos financieros,270680.36
+1162,42980,ahorro,Activos financieros,80531.63
+1163,46130,plan de jubilación,Activos financieros,21886.98
+1164,47629,plan de jubilación,Activos financieros,194514.23
+1165,53371,plan de jubilación,Activos financieros,26164.45
+1166,52766,ahorro,Activos financieros,37207.48
+1167,51027,inversiones,Activos financieros,235567.66
+1168,49437,ahorro,Activos financieros,46660.71
+1169,45351,plan de jubilación,Activos financieros,249457.84
+1170,52872,inversiones,Activos financieros,270232.55
+1171,45851,ahorro,Activos financieros,1134.60
+1172,46032,ahorro,Activos financieros,23683.28
+1173,51704,inversiones,Activos financieros,252032.63
+1174,45622,plan de jubilación,Activos financieros,5358.20
+1175,49662,plan de jubilación,Activos financieros,213006.47
+1176,54109,plan de jubilación,Activos financieros,30467.51
+1177,52746,ahorro,Activos financieros,42271.68
+1178,51796,ahorro,Activos financieros,71309.42
+1179,52928,ahorro,Activos financieros,92166.80
+1180,51101,plan de jubilación,Activos financieros,176707.49
+1181,46678,plan de jubilación,Activos financieros,243765.92
+1182,43741,inversiones,Activos financieros,29577.52
+1183,42737,inversiones,Activos financieros,246168.90
+1184,46268,inversiones,Activos financieros,170778.40
+1185,47874,inversiones,Activos financieros,289301.26
+1186,52202,plan de jubilación,Activos financieros,68942.78
+1187,45911,plan de jubilación,Activos financieros,176677.77
+1188,44964,plan de jubilación,Activos financieros,115925.67
+1189,49296,ahorro,Activos financieros,94383.69
+1190,53440,inversiones,Activos financieros,33582.88
+1191,46930,ahorro,Activos financieros,45231.89
+1192,51583,plan de jubilación,Activos financieros,34580.50
+1193,44381,ahorro,Activos financieros,45465.75
+1194,53623,plan de jubilación,Activos financieros,213858.14
+1195,52697,ahorro,Activos financieros,80855.89
+1196,44514,inversiones,Activos financieros,209366.52
+1197,43457,ahorro,Activos financieros,83674.51
+1198,47029,ahorro,Activos financieros,9575.68
+1199,47807,plan de jubilación,Activos financieros,102079.89
+1200,47943,inversiones,Activos financieros,90353.37
+1201,47064,ahorro,Activos financieros,95233.61
+1202,51303,inversiones,Activos financieros,224675.46
+1203,51891,ahorro,Activos financieros,46473.30
+1204,46020,ahorro,Activos financieros,1689.71
+1205,53566,ahorro,Activos financieros,20214.24
+1206,48593,plan de jubilación,Activos financieros,173139.89
+1207,51354,ahorro,Activos financieros,58441.22
+1208,48544,ahorro,Activos financieros,2669.12
+1209,44169,ahorro,Activos financieros,90298.36
+1210,44047,ahorro,Activos financieros,9651.87
+1211,53084,ahorro,Activos financieros,4748.28
+1212,52515,ahorro,Activos financieros,17214.93
+1213,44372,plan de jubilación,Activos financieros,206312.92
+1214,49542,plan de jubilación,Activos financieros,12223.16
+1215,50437,plan de jubilación,Activos financieros,47337.77
+1216,43375,ahorro,Activos financieros,27860.69
+1217,46528,ahorro,Activos financieros,3947.62
+1218,45382,inversiones,Activos financieros,74489.65
+1219,44266,plan de jubilación,Activos financieros,105938.09
+1220,46565,plan de jubilación,Activos financieros,19939.87
+1221,49479,plan de jubilación,Activos financieros,38622.82
+1222,51716,inversiones,Activos financieros,265511.10
+1223,48529,ahorro,Activos financieros,63260.06
+1224,54078,ahorro,Activos financieros,98945.66
+1225,47845,plan de jubilación,Activos financieros,122522.69
+1226,53180,plan de jubilación,Activos financieros,228605.87
+1227,45149,plan de jubilación,Activos financieros,100153.41
+1228,47783,ahorro,Activos financieros,32228.32
+1229,54564,ahorro,Activos financieros,89628.60
+1230,48819,ahorro,Activos financieros,80961.06
+1231,44885,inversiones,Activos financieros,107872.43
+1232,50110,ahorro,Activos financieros,97411.00
+1233,44898,ahorro,Activos financieros,65858.01
+1234,50030,inversiones,Activos financieros,245069.26
+1235,48537,ahorro,Activos financieros,57781.36
+1236,49675,plan de jubilación,Activos financieros,234125.48
+1237,48359,ahorro,Activos financieros,24036.84
+1238,54043,inversiones,Activos financieros,209590.34
+1239,53828,ahorro,Activos financieros,70493.56
+1240,46285,inversiones,Activos financieros,169518.34
+1241,52342,ahorro,Activos financieros,83751.34
+1242,43756,inversiones,Activos financieros,93406.87
+1243,47327,ahorro,Activos financieros,9480.61
+1244,49185,inversiones,Activos financieros,66423.87
+1245,53507,plan de jubilación,Activos financieros,5167.46
+1246,51785,ahorro,Activos financieros,80741.32
+1247,47471,inversiones,Activos financieros,54060.50
+1248,52381,ahorro,Activos financieros,2680.33
+1249,44707,inversiones,Activos financieros,275250.02
+1250,43998,inversiones,Activos financieros,258340.17
+1251,47208,plan de jubilación,Activos financieros,177611.81
+1252,50023,plan de jubilación,Activos financieros,148574.08
+1253,45646,plan de jubilación,Activos financieros,84037.79
+1254,52491,inversiones,Activos financieros,284659.37
+1255,47669,plan de jubilación,Activos financieros,164049.17
+1256,46108,inversiones,Activos financieros,290654.13
+1257,52690,inversiones,Activos financieros,236310.55
+1258,46459,inversiones,Activos financieros,177096.10
+1259,47043,plan de jubilación,Activos financieros,80171.69
+1260,47274,plan de jubilación,Activos financieros,36200.35
+1261,46088,ahorro,Activos financieros,94904.42
+1262,52391,plan de jubilación,Activos financieros,213435.46
+1263,44344,ahorro,Activos financieros,18617.13
+1264,42921,inversiones,Activos financieros,67047.68
+1265,52744,ahorro,Activos financieros,93700.44
+1266,47370,plan de jubilación,Activos financieros,187609.12
+1267,52807,plan de jubilación,Activos financieros,245683.02
+1268,53666,inversiones,Activos financieros,265710.76
+1269,47975,inversiones,Activos financieros,201337.35
+1270,43345,plan de jubilación,Activos financieros,114424.33
+1271,44399,ahorro,Activos financieros,25329.32
+1272,52675,plan de jubilación,Activos financieros,67881.20
+1273,43865,inversiones,Activos financieros,1383.07
+1274,53825,plan de jubilación,Activos financieros,184483.20
+1275,50604,plan de jubilación,Activos financieros,125805.09
+1276,54241,plan de jubilación,Activos financieros,138775.87
+1277,45552,plan de jubilación,Activos financieros,198238.85
+1278,47257,inversiones,Activos financieros,227714.82
+1279,46733,ahorro,Activos financieros,45403.10
+1280,50174,plan de jubilación,Activos financieros,9919.11
+1281,47839,ahorro,Activos financieros,7882.94
+1282,47418,plan de jubilación,Activos financieros,44421.60
+1283,53114,inversiones,Activos financieros,282608.41
+1284,51237,plan de jubilación,Activos financieros,150537.48
+1285,45998,plan de jubilación,Activos financieros,177603.64
+1286,43187,inversiones,Activos financieros,50334.16
+1287,48536,ahorro,Activos financieros,5828.80
+1288,46886,ahorro,Activos financieros,97452.64
+1289,47506,inversiones,Activos financieros,166679.62
+1290,50317,inversiones,Activos financieros,80314.17
+1291,52225,plan de jubilación,Activos financieros,63199.33
+1292,49300,plan de jubilación,Activos financieros,145083.60
+1293,51269,ahorro,Activos financieros,5923.23
+1294,53211,plan de jubilación,Activos financieros,26468.95
+1295,44316,inversiones,Activos financieros,180464.44
+1296,48129,ahorro,Activos financieros,3060.70
+1297,48388,inversiones,Activos financieros,88251.63
+1298,48141,plan de jubilación,Activos financieros,211723.42
+1299,43378,plan de jubilación,Activos financieros,120381.39
+1300,53536,plan de jubilación,Activos financieros,27328.53
+1301,51824,plan de jubilación,Activos financieros,50295.90
+1302,52984,plan de jubilación,Activos financieros,50712.82
+1303,49778,plan de jubilación,Activos financieros,112736.40
+1304,51466,ahorro,Activos financieros,83789.34
+1305,51908,ahorro,Activos financieros,15537.50
+1306,53526,inversiones,Activos financieros,29914.08
+1307,45066,plan de jubilación,Activos financieros,203004.14
+1308,48566,inversiones,Activos financieros,69026.31
+1309,51495,plan de jubilación,Activos financieros,205509.28
+1310,50971,inversiones,Activos financieros,206433.31
+1311,48629,inversiones,Activos financieros,264614.51
+1312,46544,plan de jubilación,Activos financieros,24343.99
+1313,48642,ahorro,Activos financieros,50459.10
+1314,52284,inversiones,Activos financieros,203582.93
+1315,43208,ahorro,Activos financieros,12468.05
+1316,42730,ahorro,Activos financieros,94931.62
+1317,45528,ahorro,Activos financieros,80941.84
+1318,50167,ahorro,Activos financieros,42625.80
+1319,46058,plan de jubilación,Activos financieros,54470.22
+1320,49626,ahorro,Activos financieros,83493.76
+1321,54576,plan de jubilación,Activos financieros,228147.10
+1322,49431,ahorro,Activos financieros,39115.87
+1323,45498,inversiones,Activos financieros,98511.91
+1324,47023,inversiones,Activos financieros,137989.00
+1325,43521,inversiones,Activos financieros,187294.32
+1326,44828,plan de jubilación,Activos financieros,32567.12
+1327,47136,ahorro,Activos financieros,56876.10
+1328,51858,ahorro,Activos financieros,92530.35
+1329,53347,ahorro,Activos financieros,78681.69
+1330,47484,plan de jubilación,Activos financieros,220083.92
+1331,54463,plan de jubilación,Activos financieros,165422.98
+1332,54540,inversiones,Activos financieros,142440.94
+1333,54437,plan de jubilación,Activos financieros,103728.62
+1334,53698,inversiones,Activos financieros,204563.05
+1335,44088,ahorro,Activos financieros,39881.38
+1336,54497,inversiones,Activos financieros,72036.21
+1337,43638,plan de jubilación,Activos financieros,224772.68
+1338,43015,plan de jubilación,Activos financieros,205259.55
+1339,50800,plan de jubilación,Activos financieros,73684.93
+1340,47028,inversiones,Activos financieros,205770.76
+1341,48406,ahorro,Activos financieros,30397.80
+1342,45059,plan de jubilación,Activos financieros,71007.90
+1343,53998,inversiones,Activos financieros,194020.89
+1344,44803,plan de jubilación,Activos financieros,56790.67
+1345,43109,inversiones,Activos financieros,145853.64
+1346,49051,plan de jubilación,Activos financieros,206149.26
+1347,48084,ahorro,Activos financieros,7028.89
+1348,46568,inversiones,Activos financieros,121612.16
+1349,44749,inversiones,Activos financieros,9655.50
+1350,43625,ahorro,Activos financieros,83779.18
+1351,44614,ahorro,Activos financieros,45916.64
+1352,47706,inversiones,Activos financieros,60533.82
+1353,46454,plan de jubilación,Activos financieros,128755.96
+1354,44310,ahorro,Activos financieros,68276.85
+1355,47235,plan de jubilación,Activos financieros,124752.75
+1356,47925,ahorro,Activos financieros,96071.78
+1357,53344,inversiones,Activos financieros,165848.78
+1358,53196,ahorro,Activos financieros,83846.55
+1359,53375,inversiones,Activos financieros,249430.19
+1360,44998,plan de jubilación,Activos financieros,11725.37
+1361,49300,ahorro,Activos financieros,85455.22
+1362,48268,ahorro,Activos financieros,64914.30
+1363,48969,ahorro,Activos financieros,27273.82
+1364,51472,inversiones,Activos financieros,6995.65
+1365,51607,ahorro,Activos financieros,47672.67
+1366,49137,inversiones,Activos financieros,52787.00
+1367,51402,ahorro,Activos financieros,25612.85
+1368,46929,inversiones,Activos financieros,290140.31
+1369,46458,plan de jubilación,Activos financieros,108832.67
+1370,47982,plan de jubilación,Activos financieros,117454.51
+1371,53315,plan de jubilación,Activos financieros,79025.55
+1372,46905,inversiones,Activos financieros,119748.61
+1373,50871,ahorro,Activos financieros,51395.61
+1374,45032,plan de jubilación,Activos financieros,142556.99
+1375,47001,inversiones,Activos financieros,85520.39
+1376,44725,ahorro,Activos financieros,48432.97
+1377,50514,plan de jubilación,Activos financieros,161945.71
+1378,46708,plan de jubilación,Activos financieros,165749.30
+1379,49258,plan de jubilación,Activos financieros,51148.22
+1380,48489,ahorro,Activos financieros,90018.86
+1381,46091,plan de jubilación,Activos financieros,166829.93
+1382,44849,ahorro,Activos financieros,72267.68
+1383,49471,plan de jubilación,Activos financieros,249379.93
+1384,54341,plan de jubilación,Activos financieros,104126.73
+1385,46523,inversiones,Activos financieros,212712.62
+1386,54540,ahorro,Activos financieros,34645.12
+1387,47845,ahorro,Activos financieros,68788.65
+1388,52611,plan de jubilación,Activos financieros,227098.99
+1389,48752,plan de jubilación,Activos financieros,129292.14
+1390,43684,inversiones,Activos financieros,263071.94
+1391,53129,plan de jubilación,Activos financieros,28912.75
+1392,51459,inversiones,Activos financieros,78336.90
+1393,50720,ahorro,Activos financieros,94718.88
+1394,50009,inversiones,Activos financieros,27700.65
+1395,52587,ahorro,Activos financieros,74548.89
+1396,43080,plan de jubilación,Activos financieros,198082.16
+1397,51809,plan de jubilación,Activos financieros,68837.01
+1398,51185,plan de jubilación,Activos financieros,213547.40
+1399,43388,ahorro,Activos financieros,86706.14
+1400,46200,inversiones,Activos financieros,283345.99
+1401,53122,plan de jubilación,Activos financieros,222909.39
+1402,51241,ahorro,Activos financieros,86816.03
+1403,44292,inversiones,Activos financieros,90208.37
+1404,50469,ahorro,Activos financieros,14167.84
+1405,52549,plan de jubilación,Activos financieros,105252.00
+1406,43916,plan de jubilación,Activos financieros,40089.92
+1407,54015,ahorro,Activos financieros,78004.65
+1408,52291,plan de jubilación,Activos financieros,159603.03
+1409,49147,plan de jubilación,Activos financieros,160452.25
+1410,50722,plan de jubilación,Activos financieros,72014.33
+1411,44546,inversiones,Activos financieros,229580.64
+1412,47367,ahorro,Activos financieros,13375.89
+1413,50155,inversiones,Activos financieros,129393.51
+1414,45628,plan de jubilación,Activos financieros,98912.52
+1415,42798,inversiones,Activos financieros,60624.86
+1416,46646,ahorro,Activos financieros,89254.64
+1417,50108,ahorro,Activos financieros,2282.65
+1418,47603,inversiones,Activos financieros,220347.37
+1419,43141,inversiones,Activos financieros,263218.56
+1420,44778,ahorro,Activos financieros,10719.47
+1421,48704,inversiones,Activos financieros,92528.41
+1422,54101,ahorro,Activos financieros,30171.12
+1423,53792,plan de jubilación,Activos financieros,183318.82
+1424,51888,inversiones,Activos financieros,102012.71
+1425,47402,ahorro,Activos financieros,34601.92
+1426,49275,plan de jubilación,Activos financieros,188778.32
+1427,47724,plan de jubilación,Activos financieros,9685.56
+1428,44014,inversiones,Activos financieros,295478.98
+1429,46124,inversiones,Activos financieros,7552.07
+1430,54033,ahorro,Activos financieros,12754.62
+1431,48515,inversiones,Activos financieros,237846.02
+1432,53652,inversiones,Activos financieros,77480.96
+1433,49663,inversiones,Activos financieros,15527.50
+1434,43615,inversiones,Activos financieros,33325.92
+1435,45428,ahorro,Activos financieros,69130.10
+1436,53998,plan de jubilación,Activos financieros,98162.17
+1437,43855,plan de jubilación,Activos financieros,121227.10
+1438,45076,ahorro,Activos financieros,69671.61
+1439,43082,ahorro,Activos financieros,30461.09
+1440,43882,ahorro,Activos financieros,66417.06
+1441,43525,inversiones,Activos financieros,182084.67
+1442,44324,plan de jubilación,Activos financieros,208509.92
+1443,54075,inversiones,Activos financieros,215911.10
+1444,50594,plan de jubilación,Activos financieros,32933.08
+1445,50563,plan de jubilación,Activos financieros,53668.43
+1446,54310,plan de jubilación,Activos financieros,208717.21
+1447,53545,plan de jubilación,Activos financieros,177342.00
+1448,45064,ahorro,Activos financieros,4420.87
+1449,47782,ahorro,Activos financieros,68976.29
+1450,46496,plan de jubilación,Activos financieros,62453.79
+1451,44918,inversiones,Activos financieros,27611.85
+1452,49473,inversiones,Activos financieros,201037.56
+1453,54334,ahorro,Activos financieros,78062.86
+1454,50461,inversiones,Activos financieros,217349.30
+1455,46641,inversiones,Activos financieros,70116.93
+1456,49903,plan de jubilación,Activos financieros,118747.95
+1457,44128,ahorro,Activos financieros,87476.97
+1458,50635,plan de jubilación,Activos financieros,201391.05
+1459,43672,plan de jubilación,Activos financieros,185942.35
+1460,43533,ahorro,Activos financieros,1462.40
+1461,51437,inversiones,Activos financieros,194512.39
+1462,49508,plan de jubilación,Activos financieros,224159.27
+1463,53016,plan de jubilación,Activos financieros,220226.51
+1464,43154,plan de jubilación,Activos financieros,204666.25
+1465,48059,ahorro,Activos financieros,40377.36
+1466,48289,plan de jubilación,Activos financieros,209748.54
+1467,51093,plan de jubilación,Activos financieros,200975.28
+1468,49909,ahorro,Activos financieros,11749.13
+1469,51165,inversiones,Activos financieros,18535.27
+1470,52665,ahorro,Activos financieros,41894.76
+1471,44212,plan de jubilación,Activos financieros,201554.87
+1472,52932,plan de jubilación,Activos financieros,49408.84
+1473,52078,plan de jubilación,Activos financieros,154782.81
+1474,51434,inversiones,Activos financieros,292059.93
+1475,54269,plan de jubilación,Activos financieros,230497.51
+1476,47861,plan de jubilación,Activos financieros,112968.53
+1477,47986,plan de jubilación,Activos financieros,165468.52
+1478,43521,inversiones,Activos financieros,260631.35
+1479,48291,inversiones,Activos financieros,173418.05
+1480,54001,ahorro,Activos financieros,97800.61
+1481,43093,plan de jubilación,Activos financieros,132179.42
+1482,52410,inversiones,Activos financieros,185853.47
+1483,51104,inversiones,Activos financieros,218268.94
+1484,48869,plan de jubilación,Activos financieros,167609.11
+1485,52462,plan de jubilación,Activos financieros,41420.34
+1486,54359,inversiones,Activos financieros,17315.27
+1487,52836,ahorro,Activos financieros,50803.97
+1488,51103,plan de jubilación,Activos financieros,218006.83
+1489,46268,plan de jubilación,Activos financieros,83555.28
+1490,47622,plan de jubilación,Activos financieros,17335.93
+1491,52636,inversiones,Activos financieros,193351.88
+1492,44997,ahorro,Activos financieros,8343.64
+1493,45314,inversiones,Activos financieros,134981.48
+1494,44757,plan de jubilación,Activos financieros,82435.07
+1495,43039,inversiones,Activos financieros,196358.53
+1496,45089,plan de jubilación,Activos financieros,106022.94
+1497,51156,inversiones,Activos financieros,1050.74
+1498,43007,inversiones,Activos financieros,288988.20
+1499,54408,plan de jubilación,Activos financieros,223077.17
+1500,49074,ahorro,Activos financieros,65632.30
+1501,51896,plan de jubilación,Activos financieros,94018.91
+1502,44391,ahorro,Activos financieros,84509.59
+1503,51419,inversiones,Activos financieros,230457.50
+1504,44577,plan de jubilación,Activos financieros,180581.23
+1505,46141,inversiones,Activos financieros,136307.20
+1506,44063,inversiones,Activos financieros,67302.39
+1507,46688,plan de jubilación,Activos financieros,208321.55
+1508,52581,inversiones,Activos financieros,157073.54
+1509,42822,ahorro,Activos financieros,5054.92
+1510,52717,plan de jubilación,Activos financieros,39410.05
+1511,48616,inversiones,Activos financieros,216746.17
+1512,52752,plan de jubilación,Activos financieros,154658.68
+1513,46475,ahorro,Activos financieros,93056.52
+1514,48020,ahorro,Activos financieros,45976.08
+1515,44345,inversiones,Activos financieros,102042.13
+1516,53550,ahorro,Activos financieros,92699.34
+1517,49297,inversiones,Activos financieros,37842.54
+1518,54560,plan de jubilación,Activos financieros,166321.89
+1519,52684,ahorro,Activos financieros,96403.55
+1520,51039,inversiones,Activos financieros,221127.97
+1521,48447,plan de jubilación,Activos financieros,210509.95
+1522,45443,inversiones,Activos financieros,234543.37
+1523,52972,inversiones,Activos financieros,173987.76
+1524,54634,ahorro,Activos financieros,10803.62
+1525,49686,inversiones,Activos financieros,182242.07
+1526,45289,inversiones,Activos financieros,264535.78
+1527,50536,inversiones,Activos financieros,274857.16
+1528,47121,plan de jubilación,Activos financieros,102478.15
+1529,46569,plan de jubilación,Activos financieros,115947.20
+1530,51987,ahorro,Activos financieros,41568.17
+1531,52715,inversiones,Activos financieros,154176.09
+1532,47532,inversiones,Activos financieros,258351.56
+1533,51608,inversiones,Activos financieros,280718.11
+1534,53924,ahorro,Activos financieros,20488.46
+1535,45522,inversiones,Activos financieros,87883.27
+1536,44718,inversiones,Activos financieros,40668.85
+1537,53695,inversiones,Activos financieros,292578.67
+1538,51243,inversiones,Activos financieros,163204.95
+1539,49381,plan de jubilación,Activos financieros,179036.42
+1540,44621,inversiones,Activos financieros,144630.61
+1541,48443,inversiones,Activos financieros,213326.97
+1542,49495,inversiones,Activos financieros,268265.93
+1543,51634,plan de jubilación,Activos financieros,219981.92
+1544,54017,ahorro,Activos financieros,52511.63
+1545,53656,plan de jubilación,Activos financieros,40605.04
+1546,50232,ahorro,Activos financieros,20390.29
+1547,49001,plan de jubilación,Activos financieros,172430.63
+1548,47296,ahorro,Activos financieros,69214.19
+1549,44266,ahorro,Activos financieros,75482.60
+1550,53098,plan de jubilación,Activos financieros,204436.42
+1551,49905,inversiones,Activos financieros,260542.58
+1552,52986,ahorro,Activos financieros,74370.07
+1553,46897,plan de jubilación,Activos financieros,63210.89
+1554,49447,plan de jubilación,Activos financieros,174769.34
+1555,54282,plan de jubilación,Activos financieros,99950.89
+1556,48909,plan de jubilación,Activos financieros,241629.14
+1557,53940,ahorro,Activos financieros,74495.16
+1558,48701,inversiones,Activos financieros,260786.14
+1559,45059,ahorro,Activos financieros,91192.89
+1560,54007,inversiones,Activos financieros,194642.08
+1561,44788,inversiones,Activos financieros,221796.56
+1562,51133,inversiones,Activos financieros,289322.66
+1563,43837,plan de jubilación,Activos financieros,48469.35
+1564,50819,ahorro,Activos financieros,19104.17
+1565,42948,inversiones,Activos financieros,154640.21
+1566,43724,ahorro,Activos financieros,43136.53
+1567,47878,plan de jubilación,Activos financieros,36866.30
+1568,50110,plan de jubilación,Activos financieros,6383.06
+1569,47405,inversiones,Activos financieros,281310.84
+1570,53771,ahorro,Activos financieros,92898.51
+1571,49880,ahorro,Activos financieros,77479.26
+1572,45212,inversiones,Activos financieros,253098.85
+1573,44004,plan de jubilación,Activos financieros,198527.50
+1574,45952,plan de jubilación,Activos financieros,22855.79
+1575,48441,plan de jubilación,Activos financieros,133721.79
+1576,50537,inversiones,Activos financieros,21384.76
+1577,45789,ahorro,Activos financieros,41885.16
+1578,42843,plan de jubilación,Activos financieros,27526.66
+1579,50516,ahorro,Activos financieros,66501.78
+1580,46886,plan de jubilación,Activos financieros,76925.72
+1581,53698,inversiones,Activos financieros,142982.30
+1582,52478,inversiones,Activos financieros,3632.31
+1583,52384,plan de jubilación,Activos financieros,114188.48
+1584,45888,inversiones,Activos financieros,275663.58
+1585,45068,ahorro,Activos financieros,68413.86
+1586,45981,plan de jubilación,Activos financieros,229403.45
+1587,49383,plan de jubilación,Activos financieros,67864.69
+1588,48373,plan de jubilación,Activos financieros,11052.90
+1589,44429,plan de jubilación,Activos financieros,131005.72
+1590,54357,plan de jubilación,Activos financieros,124267.15
+1591,47143,inversiones,Activos financieros,58561.20
+1592,51998,ahorro,Activos financieros,94847.08
+1593,52314,inversiones,Activos financieros,160428.54
+1594,50535,ahorro,Activos financieros,21472.76
+1595,47948,ahorro,Activos financieros,86562.61
+1596,53662,ahorro,Activos financieros,20955.17
+1597,54106,inversiones,Activos financieros,232786.82
+1598,48762,ahorro,Activos financieros,74815.64
+1599,45206,ahorro,Activos financieros,46192.91
+1600,53599,ahorro,Activos financieros,9208.33
+1601,44391,ahorro,Activos financieros,79524.37
+1602,51731,ahorro,Activos financieros,57708.75
+1603,44102,plan de jubilación,Activos financieros,104870.03
+1604,50739,inversiones,Activos financieros,121929.96
+1605,53985,ahorro,Activos financieros,39255.44
+1606,53320,inversiones,Activos financieros,2763.78
+1607,49436,inversiones,Activos financieros,19908.04
+1608,46926,ahorro,Activos financieros,70237.76
+1609,53575,plan de jubilación,Activos financieros,232371.70
+1610,43585,plan de jubilación,Activos financieros,197788.51
+1611,50429,inversiones,Activos financieros,26865.06
+1612,49920,plan de jubilación,Activos financieros,101802.75
+1613,45956,ahorro,Activos financieros,47661.77
+1614,43850,ahorro,Activos financieros,14069.96
+1615,45339,inversiones,Activos financieros,89198.56
+1616,48882,ahorro,Activos financieros,30156.62
+1617,48278,inversiones,Activos financieros,112566.02
+1618,48015,inversiones,Activos financieros,262555.31
+1619,52536,ahorro,Activos financieros,4656.43
+1620,48785,inversiones,Activos financieros,118830.43
+1621,49190,ahorro,Activos financieros,30816.77
+1622,44810,plan de jubilación,Activos financieros,56875.55
+1623,52285,inversiones,Activos financieros,43594.08
+1624,45332,ahorro,Activos financieros,61880.05
+1625,45623,ahorro,Activos financieros,11904.94
+1626,52876,inversiones,Activos financieros,255823.09
+1627,52805,plan de jubilación,Activos financieros,162945.26
+1628,47469,plan de jubilación,Activos financieros,169562.89
+1629,44606,ahorro,Activos financieros,20143.05
+1630,44993,plan de jubilación,Activos financieros,238127.28
+1631,46817,ahorro,Activos financieros,67293.91
+1632,44935,ahorro,Activos financieros,28871.15
+1633,52070,ahorro,Activos financieros,32119.70
+1634,52635,plan de jubilación,Activos financieros,156003.90
+1635,53757,inversiones,Activos financieros,175666.81
+1636,51617,inversiones,Activos financieros,109983.54
+1637,47638,plan de jubilación,Activos financieros,46316.68
+1638,52055,ahorro,Activos financieros,78673.18
+1639,46762,inversiones,Activos financieros,192610.72
+1640,46480,plan de jubilación,Activos financieros,37904.93
+1641,53084,plan de jubilación,Activos financieros,118397.85
+1642,49740,plan de jubilación,Activos financieros,124307.99
+1643,53647,ahorro,Activos financieros,64732.38
+1644,50321,plan de jubilación,Activos financieros,215384.85
+1645,49742,inversiones,Activos financieros,59733.15
+1646,53305,ahorro,Activos financieros,72878.82
+1647,49710,inversiones,Activos financieros,189856.32
+1648,53902,inversiones,Activos financieros,122135.21
+1649,49840,ahorro,Activos financieros,90677.21
+1650,43832,plan de jubilación,Activos financieros,138149.98
+1651,51037,plan de jubilación,Activos financieros,165207.49
+1652,44615,plan de jubilación,Activos financieros,101162.09
+1653,43394,inversiones,Activos financieros,257292.08
+1654,48941,plan de jubilación,Activos financieros,127775.18
+1655,52252,plan de jubilación,Activos financieros,94147.06
+1656,49774,inversiones,Activos financieros,72425.36
+1657,53844,inversiones,Activos financieros,50587.22
+1658,44879,ahorro,Activos financieros,44898.93
+1659,52333,inversiones,Activos financieros,284664.84
+1660,51436,ahorro,Activos financieros,73724.02
+1661,46577,plan de jubilación,Activos financieros,14902.86
+1662,46262,ahorro,Activos financieros,6754.69
+1663,45684,ahorro,Activos financieros,4759.44
+1664,49822,inversiones,Activos financieros,272410.10
+1665,44397,plan de jubilación,Activos financieros,120070.19
+1666,46046,ahorro,Activos financieros,4470.52
+1667,46421,plan de jubilación,Activos financieros,30290.13
+1668,44342,inversiones,Activos financieros,249064.50
+1669,43342,inversiones,Activos financieros,163760.67
+1670,47064,plan de jubilación,Activos financieros,165150.45
+1671,53817,inversiones,Activos financieros,196347.63
+1672,46210,inversiones,Activos financieros,76224.34
+1673,52923,inversiones,Activos financieros,122346.82
+1674,54589,plan de jubilación,Activos financieros,199201.08
+1675,51081,ahorro,Activos financieros,50432.78
+1676,54528,plan de jubilación,Activos financieros,45573.43
+1677,43105,inversiones,Activos financieros,193399.62
+1678,50042,ahorro,Activos financieros,19097.11
+1679,44246,inversiones,Activos financieros,215473.51
+1680,53320,inversiones,Activos financieros,69873.55
+1681,47239,inversiones,Activos financieros,34888.27
+1682,45320,plan de jubilación,Activos financieros,122360.19
+1683,49349,ahorro,Activos financieros,64902.29
+1684,53669,ahorro,Activos financieros,24745.20
+1685,45783,inversiones,Activos financieros,178111.95
+1686,46186,inversiones,Activos financieros,154280.20
+1687,50647,ahorro,Activos financieros,6063.24
+1688,49263,ahorro,Activos financieros,51905.75
+1689,43960,inversiones,Activos financieros,290803.86
+1690,53685,ahorro,Activos financieros,87911.64
+1691,52023,inversiones,Activos financieros,246569.69
+1692,52623,ahorro,Activos financieros,45195.73
+1693,43619,plan de jubilación,Activos financieros,46788.86
+1694,43292,inversiones,Activos financieros,43670.93
+1695,51858,ahorro,Activos financieros,62509.57
+1696,46408,plan de jubilación,Activos financieros,46091.82
+1697,49338,plan de jubilación,Activos financieros,230976.23
+1698,52759,inversiones,Activos financieros,21584.03
+1699,54362,plan de jubilación,Activos financieros,37392.23
+1700,50157,ahorro,Activos financieros,52509.78
+1701,52255,inversiones,Activos financieros,126518.71
+1702,43223,inversiones,Activos financieros,29793.27
+1703,43002,inversiones,Activos financieros,180344.33
+1704,53988,inversiones,Activos financieros,225962.56
+1705,42823,plan de jubilación,Activos financieros,166551.19
+1706,49308,inversiones,Activos financieros,248429.01
+1707,53366,inversiones,Activos financieros,130017.55
+1708,48535,plan de jubilación,Activos financieros,219331.95
+1709,51505,inversiones,Activos financieros,129257.92
+1710,48834,plan de jubilación,Activos financieros,90876.86
+1711,50298,inversiones,Activos financieros,30217.36
+1712,48941,plan de jubilación,Activos financieros,121899.60
+1713,53673,ahorro,Activos financieros,28685.03
+1714,46949,plan de jubilación,Activos financieros,68162.22
+1715,46769,inversiones,Activos financieros,223350.06
+1716,53434,inversiones,Activos financieros,157239.65
+1717,51101,ahorro,Activos financieros,37815.47
+1718,43871,inversiones,Activos financieros,241481.86
+1719,46259,plan de jubilación,Activos financieros,31112.89
+1720,47284,inversiones,Activos financieros,176025.69
+1721,43296,inversiones,Activos financieros,127644.90
+1722,43505,inversiones,Activos financieros,83392.60
+1723,53922,plan de jubilación,Activos financieros,189968.12
+1724,50060,inversiones,Activos financieros,235352.74
+1725,44122,ahorro,Activos financieros,37336.19
+1726,52646,plan de jubilación,Activos financieros,67175.52
+1727,45455,inversiones,Activos financieros,103962.53
+1728,49357,plan de jubilación,Activos financieros,185266.70
+1729,44329,ahorro,Activos financieros,74907.51
+1730,46025,inversiones,Activos financieros,284824.31
+1731,54276,ahorro,Activos financieros,51080.18
+1732,46087,inversiones,Activos financieros,184593.58
+1733,50342,inversiones,Activos financieros,16563.79
+1734,47980,inversiones,Activos financieros,2581.90
+1735,53425,ahorro,Activos financieros,47431.03
+1736,54421,plan de jubilación,Activos financieros,26594.47
+1737,52710,ahorro,Activos financieros,37398.10
+1738,46675,ahorro,Activos financieros,72587.22
+1739,45049,inversiones,Activos financieros,197196.39
+1740,48109,inversiones,Activos financieros,289095.42
+1741,47736,ahorro,Activos financieros,64208.99
+1742,51774,ahorro,Activos financieros,20569.87
+1743,47144,inversiones,Activos financieros,86515.95
+1744,47215,inversiones,Activos financieros,153653.81
+1745,45777,ahorro,Activos financieros,61711.40
+1746,49427,ahorro,Activos financieros,36294.13
+1747,52739,ahorro,Activos financieros,97576.77
+1748,48645,plan de jubilación,Activos financieros,196019.86
+1749,42903,inversiones,Activos financieros,119147.79
+1750,48112,ahorro,Activos financieros,52015.40
+1751,52768,ahorro,Activos financieros,91958.15
+1752,52369,plan de jubilación,Activos financieros,182903.98
+1753,47557,inversiones,Activos financieros,105080.48
+1754,50119,ahorro,Activos financieros,60833.16
+1755,43983,plan de jubilación,Activos financieros,232779.89
+1756,48550,ahorro,Activos financieros,26480.20
+1757,47672,inversiones,Activos financieros,32833.02
+1758,48572,inversiones,Activos financieros,88981.30
+1759,50350,inversiones,Activos financieros,287056.10
+1760,47644,inversiones,Activos financieros,75792.31
+1761,43636,plan de jubilación,Activos financieros,142976.31
+1762,48355,plan de jubilación,Activos financieros,240503.49
+1763,51739,inversiones,Activos financieros,138755.41
+1764,49949,ahorro,Activos financieros,48456.03
+1765,45453,ahorro,Activos financieros,38575.99
+1766,47267,inversiones,Activos financieros,210651.65
+1767,49711,plan de jubilación,Activos financieros,239084.19
+1768,49051,inversiones,Activos financieros,3907.23
+1769,43342,ahorro,Activos financieros,29085.31
+1770,53010,inversiones,Activos financieros,224887.65
+1771,52530,ahorro,Activos financieros,55677.87
+1772,52584,plan de jubilación,Activos financieros,81898.83
+1773,49701,inversiones,Activos financieros,81453.66
+1774,46058,ahorro,Activos financieros,50150.43
+1775,48129,ahorro,Activos financieros,73675.19
+1776,47951,ahorro,Activos financieros,23306.15
+1777,48783,inversiones,Activos financieros,107452.18
+1778,44956,ahorro,Activos financieros,92058.72
+1779,52004,inversiones,Activos financieros,148306.79
+1780,53962,inversiones,Activos financieros,287439.93
+1781,53907,plan de jubilación,Activos financieros,157063.53
+1782,47055,inversiones,Activos financieros,260761.88
+1783,42718,ahorro,Activos financieros,98447.27
+1784,50940,plan de jubilación,Activos financieros,102480.48
+1785,52249,ahorro,Activos financieros,5887.74
+1786,54645,plan de jubilación,Activos financieros,235215.33
+1787,53703,inversiones,Activos financieros,104839.40
+1788,50961,ahorro,Activos financieros,45991.01
+1789,43809,inversiones,Activos financieros,155943.34
+1790,44387,inversiones,Activos financieros,3517.16
+1791,46324,ahorro,Activos financieros,38253.09
+1792,48561,plan de jubilación,Activos financieros,93592.57
+1793,54527,ahorro,Activos financieros,55082.06
+1794,46670,plan de jubilación,Activos financieros,120479.61
+1795,51620,plan de jubilación,Activos financieros,94651.42
+1796,53326,plan de jubilación,Activos financieros,56580.46
+1797,49876,plan de jubilación,Activos financieros,94444.11
+1798,48593,plan de jubilación,Activos financieros,115428.60
+1799,53581,ahorro,Activos financieros,97937.61
+1800,51808,ahorro,Activos financieros,81511.97
+1801,46358,plan de jubilación,Activos financieros,202001.46
+1802,44832,plan de jubilación,Activos financieros,214795.64
+1803,49010,ahorro,Activos financieros,80103.73
+1804,43223,plan de jubilación,Activos financieros,202388.75
+1805,52025,plan de jubilación,Activos financieros,127401.47
+1806,48836,inversiones,Activos financieros,160660.79
+1807,49711,plan de jubilación,Activos financieros,78508.37
+1808,51223,inversiones,Activos financieros,15265.08
+1809,49664,inversiones,Activos financieros,49839.22
+1810,49034,plan de jubilación,Activos financieros,121752.16
+1811,45394,ahorro,Activos financieros,45260.55
+1812,42884,plan de jubilación,Activos financieros,93435.70
+1813,53355,inversiones,Activos financieros,279621.53
+1814,51994,plan de jubilación,Activos financieros,9859.66
+1815,42794,plan de jubilación,Activos financieros,217505.30
+1816,48029,ahorro,Activos financieros,57896.95
+1817,49109,inversiones,Activos financieros,161993.04
+1818,43541,plan de jubilación,Activos financieros,84647.12
+1819,45530,plan de jubilación,Activos financieros,194812.37
+1820,47804,ahorro,Activos financieros,38416.56
+1821,53160,plan de jubilación,Activos financieros,159769.49
+1822,45845,ahorro,Activos financieros,64237.77
+1823,49283,plan de jubilación,Activos financieros,159661.99
+1824,48624,plan de jubilación,Activos financieros,212980.69
+1825,53409,ahorro,Activos financieros,16618.95
+1826,52353,plan de jubilación,Activos financieros,82635.17
+1827,43425,inversiones,Activos financieros,80974.24
+1828,52310,plan de jubilación,Activos financieros,71455.78
+1829,44510,plan de jubilación,Activos financieros,188234.40
+1830,43463,plan de jubilación,Activos financieros,106427.32
+1831,50537,ahorro,Activos financieros,12941.47
+1832,50422,inversiones,Activos financieros,76242.46
+1833,49876,inversiones,Activos financieros,24939.36
+1834,43194,plan de jubilación,Activos financieros,30237.28
+1835,45298,plan de jubilación,Activos financieros,139366.27
+1836,48390,plan de jubilación,Activos financieros,133375.78
+1837,51228,ahorro,Activos financieros,26614.00
+1838,49085,ahorro,Activos financieros,65655.85
+1839,45338,plan de jubilación,Activos financieros,61192.21
+1840,47913,plan de jubilación,Activos financieros,158487.77
+1841,44861,inversiones,Activos financieros,251716.82
+1842,51416,ahorro,Activos financieros,66523.14
+1843,46052,plan de jubilación,Activos financieros,119462.40
+1844,52964,plan de jubilación,Activos financieros,139393.59
+1845,47154,inversiones,Activos financieros,162246.98
+1846,52643,inversiones,Activos financieros,137506.48
+1847,46658,inversiones,Activos financieros,131058.23
+1848,44331,inversiones,Activos financieros,160601.46
+1849,53701,plan de jubilación,Activos financieros,137218.69
+1850,51866,plan de jubilación,Activos financieros,80427.71
+1851,46981,plan de jubilación,Activos financieros,43150.80
+1852,48264,ahorro,Activos financieros,52569.97
+1853,46084,plan de jubilación,Activos financieros,75256.75
+1854,46111,ahorro,Activos financieros,68933.11
+1855,47030,plan de jubilación,Activos financieros,78404.58
+1856,45518,plan de jubilación,Activos financieros,151265.92
+1857,49098,inversiones,Activos financieros,112719.52
+1858,52957,inversiones,Activos financieros,131694.80
+1859,51280,ahorro,Activos financieros,71636.33
+1860,44367,plan de jubilación,Activos financieros,207964.58
+1861,43220,plan de jubilación,Activos financieros,24406.38
+1862,44739,ahorro,Activos financieros,51902.70
+1863,53124,inversiones,Activos financieros,205707.45
+1864,51089,inversiones,Activos financieros,223135.14
+1865,54257,plan de jubilación,Activos financieros,51060.15
+1866,52698,ahorro,Activos financieros,14094.09
+1867,53933,inversiones,Activos financieros,137147.56
+1868,45813,plan de jubilación,Activos financieros,176615.79
+1869,43490,ahorro,Activos financieros,32404.05
+1870,46863,ahorro,Activos financieros,96986.76
+1871,47800,ahorro,Activos financieros,97247.09
+1872,47489,plan de jubilación,Activos financieros,35634.60
+1873,50188,inversiones,Activos financieros,3453.02
+1874,44134,ahorro,Activos financieros,1965.12
+1875,47687,plan de jubilación,Activos financieros,107959.54
+1876,48848,plan de jubilación,Activos financieros,118602.69
+1877,54544,plan de jubilación,Activos financieros,24654.66
+1878,52824,ahorro,Activos financieros,27017.11
+1879,52106,ahorro,Activos financieros,54547.60
+1880,49111,ahorro,Activos financieros,89622.05
+1881,48123,plan de jubilación,Activos financieros,207921.75
+1882,43851,inversiones,Activos financieros,75439.75
+1883,51644,ahorro,Activos financieros,73893.09
+1884,44358,ahorro,Activos financieros,46353.05
+1885,44408,inversiones,Activos financieros,200136.36
+1886,52961,plan de jubilación,Activos financieros,100335.13
+1887,44778,plan de jubilación,Activos financieros,43859.80
+1888,42929,ahorro,Activos financieros,74600.10
+1889,52369,inversiones,Activos financieros,37520.31
+1890,47366,inversiones,Activos financieros,90345.11
+1891,45273,ahorro,Activos financieros,86433.94
+1892,51235,ahorro,Activos financieros,23978.60
+1893,48536,plan de jubilación,Activos financieros,8691.59
+1894,47502,inversiones,Activos financieros,36775.23
+1895,48794,ahorro,Activos financieros,96899.08
+1896,53058,inversiones,Activos financieros,143105.93
+1897,51794,ahorro,Activos financieros,37454.17
+1898,53519,ahorro,Activos financieros,16191.00
+1899,47132,inversiones,Activos financieros,185974.81
+1900,46148,ahorro,Activos financieros,6447.63
+1901,53297,ahorro,Activos financieros,70282.15
+1902,44090,ahorro,Activos financieros,49040.37
+1903,48760,inversiones,Activos financieros,236779.99
+1904,54287,plan de jubilación,Activos financieros,184631.26
+1905,52798,inversiones,Activos financieros,113952.91
+1906,47275,ahorro,Activos financieros,25444.28
+1907,46990,plan de jubilación,Activos financieros,178123.36
+1908,50720,plan de jubilación,Activos financieros,137969.85
+1909,50767,ahorro,Activos financieros,56886.82
+1910,48464,plan de jubilación,Activos financieros,84301.81
+1911,49578,plan de jubilación,Activos financieros,217577.15
+1912,47791,inversiones,Activos financieros,48942.68
+1913,49727,ahorro,Activos financieros,45213.73
+1914,43342,inversiones,Activos financieros,110766.70
+1915,50872,inversiones,Activos financieros,152281.36
+1916,51508,ahorro,Activos financieros,62163.59
+1917,46276,inversiones,Activos financieros,72397.18
+1918,50625,ahorro,Activos financieros,65999.80
+1919,51554,plan de jubilación,Activos financieros,51518.02
+1920,50437,plan de jubilación,Activos financieros,192604.85
+1921,43094,inversiones,Activos financieros,85655.60
+1922,52067,inversiones,Activos financieros,97285.19
+1923,44742,inversiones,Activos financieros,198008.42
+1924,43020,ahorro,Activos financieros,18274.56
+1925,42819,ahorro,Activos financieros,11151.99
+1926,48979,ahorro,Activos financieros,3665.81
+1927,49841,plan de jubilación,Activos financieros,166190.71
+1928,53389,inversiones,Activos financieros,210692.89
+1929,54132,ahorro,Activos financieros,36952.22
+1930,50366,inversiones,Activos financieros,22191.31
+1931,49611,inversiones,Activos financieros,147930.24
+1932,44737,plan de jubilación,Activos financieros,201249.89
+1933,51440,plan de jubilación,Activos financieros,141714.87
+1934,48345,plan de jubilación,Activos financieros,199591.15
+1935,53001,inversiones,Activos financieros,80478.87
+1936,44166,inversiones,Activos financieros,22046.05
+1937,48166,ahorro,Activos financieros,94488.05
+1938,42736,ahorro,Activos financieros,10571.90
+1939,50595,inversiones,Activos financieros,116214.00
+1940,54248,inversiones,Activos financieros,197406.08
+1941,51348,inversiones,Activos financieros,284303.50
+1942,51864,inversiones,Activos financieros,167884.34
+1943,53083,inversiones,Activos financieros,173392.53
+1944,48049,plan de jubilación,Activos financieros,177124.85
+1945,53142,ahorro,Activos financieros,17097.53
+1946,43869,inversiones,Activos financieros,121065.59
+1947,49823,inversiones,Activos financieros,48294.76
+1948,44577,plan de jubilación,Activos financieros,233712.39
+1949,47528,inversiones,Activos financieros,297447.43
+1950,48476,plan de jubilación,Activos financieros,106024.11
+1951,46490,plan de jubilación,Activos financieros,207407.97
+1952,43913,inversiones,Activos financieros,72976.04
+1953,53540,ahorro,Activos financieros,37818.78
+1954,44130,inversiones,Activos financieros,76972.65
+1955,45007,plan de jubilación,Activos financieros,240156.99
+1956,45071,inversiones,Activos financieros,11364.21
+1957,44045,inversiones,Activos financieros,5874.43
+1958,47154,plan de jubilación,Activos financieros,6609.36
+1959,49860,ahorro,Activos financieros,85644.18
+1960,48964,inversiones,Activos financieros,246878.90
+1961,45653,inversiones,Activos financieros,167340.60
+1962,48624,ahorro,Activos financieros,9881.57
+1963,53115,plan de jubilación,Activos financieros,43246.24
+1964,44040,plan de jubilación,Activos financieros,222958.21
+1965,51891,ahorro,Activos financieros,25996.26
+1966,46936,ahorro,Activos financieros,57263.47
+1967,48038,ahorro,Activos financieros,73559.46
+1968,51131,plan de jubilación,Activos financieros,199261.53
+1969,46619,plan de jubilación,Activos financieros,207297.78
+1970,49298,inversiones,Activos financieros,173293.51
+1971,51534,inversiones,Activos financieros,193034.13
+1972,46748,inversiones,Activos financieros,242694.01
+1973,45724,ahorro,Activos financieros,78122.13
+1974,51151,plan de jubilación,Activos financieros,220549.16
+1975,45095,plan de jubilación,Activos financieros,232910.29
+1976,44818,ahorro,Activos financieros,74894.03
+1977,45269,ahorro,Activos financieros,63571.77
+1978,42850,plan de jubilación,Activos financieros,18261.35
+1979,51196,ahorro,Activos financieros,32272.00
+1980,49083,ahorro,Activos financieros,33019.75
+1981,52312,ahorro,Activos financieros,15743.15
+1982,54238,inversiones,Activos financieros,299212.82
+1983,46653,inversiones,Activos financieros,173001.20
+1984,46651,ahorro,Activos financieros,43477.60
+1985,51121,ahorro,Activos financieros,13652.81
+1986,45784,plan de jubilación,Activos financieros,145002.94
+1987,47953,inversiones,Activos financieros,120358.20
+1988,54511,plan de jubilación,Activos financieros,127946.66
+1989,46038,ahorro,Activos financieros,76322.28
+1990,47467,inversiones,Activos financieros,60234.45
+1991,49446,inversiones,Activos financieros,171827.87
+1992,43328,inversiones,Activos financieros,299126.55
+1993,44749,ahorro,Activos financieros,24610.35
+1994,53071,plan de jubilación,Activos financieros,84235.85
+1995,53553,ahorro,Activos financieros,11696.72
+1996,42715,plan de jubilación,Activos financieros,94490.57
+1997,47372,plan de jubilación,Activos financieros,89408.60
+1998,49471,ahorro,Activos financieros,77083.29
+1999,51649,plan de jubilación,Activos financieros,155974.14
+2000,48003,inversiones,Activos financieros,44599.72
+2001,47911,ahorro,Activos financieros,20368.68
+2002,48912,ahorro,Activos financieros,75894.51
+2003,44167,ahorro,Activos financieros,74088.37
+2004,48794,inversiones,Activos financieros,278092.18
+2005,49612,ahorro,Activos financieros,34655.50
+2006,49317,plan de jubilación,Activos financieros,115265.08
+2007,51338,plan de jubilación,Activos financieros,56207.34
+2008,48248,ahorro,Activos financieros,20778.23
+2009,48517,plan de jubilación,Activos financieros,139456.01
+2010,49538,inversiones,Activos financieros,297698.34
+2011,49382,inversiones,Activos financieros,200809.91
+2012,44845,inversiones,Activos financieros,271906.05
+2013,48180,ahorro,Activos financieros,25917.91
+2014,52235,plan de jubilación,Activos financieros,54170.53
+2015,47333,inversiones,Activos financieros,82113.15
+2016,54557,inversiones,Activos financieros,283607.77
+2017,45755,plan de jubilación,Activos financieros,166791.34
+2018,43309,inversiones,Activos financieros,108705.52
+2019,49942,ahorro,Activos financieros,29603.31
+2020,47764,plan de jubilación,Activos financieros,61636.31
+2021,49813,inversiones,Activos financieros,293006.97
+2022,47352,plan de jubilación,Activos financieros,123742.23
+2023,48552,inversiones,Activos financieros,27318.18
+2024,53781,inversiones,Activos financieros,290070.62
+2025,48473,inversiones,Activos financieros,7425.05
+2026,50624,inversiones,Activos financieros,92173.33
+2027,45267,plan de jubilación,Activos financieros,187375.73
+2028,45611,plan de jubilación,Activos financieros,172656.28
+2029,43994,inversiones,Activos financieros,91395.54
+2030,48449,plan de jubilación,Activos financieros,203913.75
+2031,47904,plan de jubilación,Activos financieros,220275.93
+2032,47309,inversiones,Activos financieros,284785.81
+2033,46733,ahorro,Activos financieros,34507.72
+2034,52281,inversiones,Activos financieros,42040.94
+2035,43247,plan de jubilación,Activos financieros,132575.87
+2036,53067,inversiones,Activos financieros,261937.74
+2037,51300,ahorro,Activos financieros,42024.67
+2038,47830,ahorro,Activos financieros,42933.27
+2039,44323,inversiones,Activos financieros,99456.14
+2040,45102,ahorro,Activos financieros,21072.35
+2041,54639,inversiones,Activos financieros,162864.79
+2042,52999,ahorro,Activos financieros,31245.34
+2043,50910,inversiones,Activos financieros,272959.25
+2044,52590,ahorro,Activos financieros,65795.06
+2045,48221,ahorro,Activos financieros,32090.87
+2046,51465,inversiones,Activos financieros,284631.87
+2047,49978,ahorro,Activos financieros,32100.96
+2048,49203,inversiones,Activos financieros,9815.52
+2049,53588,plan de jubilación,Activos financieros,240493.07
+2050,44260,plan de jubilación,Activos financieros,187674.38
+2051,49381,inversiones,Activos financieros,82865.05
+2052,44803,ahorro,Activos financieros,13588.82
+2053,49016,inversiones,Activos financieros,185467.01
+2054,54046,inversiones,Activos financieros,184096.24
+2055,51888,ahorro,Activos financieros,23475.78
+2056,44315,plan de jubilación,Activos financieros,24471.48
+2057,49114,ahorro,Activos financieros,50481.30
+2058,54085,plan de jubilación,Activos financieros,179444.69
+2059,45841,ahorro,Activos financieros,85286.88
+2060,51486,plan de jubilación,Activos financieros,38690.62
+2061,51693,ahorro,Activos financieros,3706.84
+2062,53454,plan de jubilación,Activos financieros,237798.52
+2063,53853,inversiones,Activos financieros,201730.39
+2064,53279,ahorro,Activos financieros,7080.56
+2065,43856,inversiones,Activos financieros,147492.93
+2066,52395,plan de jubilación,Activos financieros,222458.79
+2067,53077,plan de jubilación,Activos financieros,195172.61
+2068,51205,inversiones,Activos financieros,247474.23
+2069,54374,plan de jubilación,Activos financieros,101566.92
+2070,46497,inversiones,Activos financieros,161311.66
+2071,52462,inversiones,Activos financieros,236289.04
+2072,46905,ahorro,Activos financieros,45435.15
+2073,50462,ahorro,Activos financieros,52110.91
+2074,53646,inversiones,Activos financieros,12736.24
+2075,47881,inversiones,Activos financieros,229782.80
+2076,47953,ahorro,Activos financieros,29472.35
+2077,50927,plan de jubilación,Activos financieros,194550.87
+2078,51502,plan de jubilación,Activos financieros,45789.22
+2079,49483,inversiones,Activos financieros,275790.81
+2080,51169,inversiones,Activos financieros,271199.02
+2081,43284,inversiones,Activos financieros,136057.73
+2082,50885,inversiones,Activos financieros,34838.30
+2083,54622,inversiones,Activos financieros,164375.72
+2084,46137,plan de jubilación,Activos financieros,84247.93
+2085,54446,ahorro,Activos financieros,45641.23
+2086,44909,ahorro,Activos financieros,88313.57
+2087,44134,plan de jubilación,Activos financieros,84398.32
+2088,47584,inversiones,Activos financieros,239149.38
+2089,43778,inversiones,Activos financieros,37939.72
+2090,53069,inversiones,Activos financieros,135370.13
+2091,53128,ahorro,Activos financieros,52619.82
+2092,49286,inversiones,Activos financieros,237528.91
+2093,52165,inversiones,Activos financieros,284976.41
+2094,54241,inversiones,Activos financieros,114801.50
+2095,53664,plan de jubilación,Activos financieros,143545.44
+2096,52167,ahorro,Activos financieros,16631.35
+2097,49672,ahorro,Activos financieros,77031.10
+2098,45559,plan de jubilación,Activos financieros,80475.24
+2099,42810,plan de jubilación,Activos financieros,75751.23
+2100,53578,ahorro,Activos financieros,89904.92
+2101,53279,ahorro,Activos financieros,62444.75
+2102,45918,ahorro,Activos financieros,46134.94
+2103,49642,inversiones,Activos financieros,242428.91
+2104,53104,plan de jubilación,Activos financieros,63280.20
+2105,48045,inversiones,Activos financieros,143237.88
+2106,44881,plan de jubilación,Activos financieros,24454.20
+2107,45969,ahorro,Activos financieros,24848.96
+2108,44404,plan de jubilación,Activos financieros,156842.68
+2109,44953,ahorro,Activos financieros,5367.42
+2110,49418,ahorro,Activos financieros,65501.05
+2111,48843,ahorro,Activos financieros,85456.01
+2112,42765,inversiones,Activos financieros,251566.32
+2113,44711,plan de jubilación,Activos financieros,230494.25
+2114,52848,ahorro,Activos financieros,41987.21
+2115,48164,ahorro,Activos financieros,67373.00
+2116,48686,inversiones,Activos financieros,207762.57
+2117,54129,inversiones,Activos financieros,236404.97
+2118,48814,plan de jubilación,Activos financieros,188587.03
+2119,44521,ahorro,Activos financieros,9766.07
+2120,43067,plan de jubilación,Activos financieros,95299.51
+2121,44072,ahorro,Activos financieros,75964.98
+2122,47095,ahorro,Activos financieros,29636.85
+2123,48460,ahorro,Activos financieros,69614.63
+2124,49539,plan de jubilación,Activos financieros,134127.92
+2125,51584,ahorro,Activos financieros,69735.03
+2126,43799,ahorro,Activos financieros,11375.57
+2127,43924,inversiones,Activos financieros,159155.04
+2128,53729,plan de jubilación,Activos financieros,182398.16
+2129,43488,inversiones,Activos financieros,86869.00
+2130,47583,plan de jubilación,Activos financieros,68616.71
+2131,46293,inversiones,Activos financieros,106802.15
+2132,45929,inversiones,Activos financieros,169227.67
+2133,49734,inversiones,Activos financieros,189925.42
+2134,48379,ahorro,Activos financieros,88424.54
+2135,50825,inversiones,Activos financieros,87855.93
+2136,51802,ahorro,Activos financieros,12261.61
+2137,51542,inversiones,Activos financieros,239223.03
+2138,49678,inversiones,Activos financieros,299697.12
+2139,47965,ahorro,Activos financieros,33712.33
+2140,49595,inversiones,Activos financieros,64489.04
+2141,43631,ahorro,Activos financieros,69156.70
+2142,53602,ahorro,Activos financieros,31123.37
+2143,43244,inversiones,Activos financieros,97853.23
+2144,46077,ahorro,Activos financieros,68740.66
+2145,46688,plan de jubilación,Activos financieros,182477.18
+2146,43577,ahorro,Activos financieros,83288.26
+2147,54571,plan de jubilación,Activos financieros,209287.20
+2148,44182,plan de jubilación,Activos financieros,229459.95
+2149,46179,inversiones,Activos financieros,41590.41
+2150,44528,inversiones,Activos financieros,138724.76
+2151,52086,plan de jubilación,Activos financieros,118305.17
+2152,48566,inversiones,Activos financieros,17750.66
+2153,45932,plan de jubilación,Activos financieros,143410.95
+2154,54503,plan de jubilación,Activos financieros,141018.42
+2155,48467,ahorro,Activos financieros,57951.07
+2156,53599,plan de jubilación,Activos financieros,21222.20
+2157,43452,plan de jubilación,Activos financieros,210981.09
+2158,42855,plan de jubilación,Activos financieros,158495.16
+2159,49103,inversiones,Activos financieros,182101.04
+2160,49637,inversiones,Activos financieros,35936.55
+2161,43162,inversiones,Activos financieros,257488.02
+2162,44748,ahorro,Activos financieros,27513.99
+2163,48645,plan de jubilación,Activos financieros,219876.94
+2164,54609,plan de jubilación,Activos financieros,208217.08
+2165,51588,ahorro,Activos financieros,52747.49
+2166,53561,ahorro,Activos financieros,37734.46
+2167,46748,ahorro,Activos financieros,91378.71
+2168,46017,inversiones,Activos financieros,8455.50
+2169,49714,inversiones,Activos financieros,47069.26
+2170,45705,plan de jubilación,Activos financieros,184448.06
+2171,52166,plan de jubilación,Activos financieros,195005.64
+2172,43424,ahorro,Activos financieros,82302.78
+2173,51442,inversiones,Activos financieros,297823.38
+2174,46485,inversiones,Activos financieros,11929.21
+2175,51950,inversiones,Activos financieros,259578.25
+2176,44476,ahorro,Activos financieros,31442.64
+2177,45569,inversiones,Activos financieros,254589.08
+2178,47032,plan de jubilación,Activos financieros,119384.60
+2179,50068,ahorro,Activos financieros,52297.48
+2180,43301,inversiones,Activos financieros,94431.76
+2181,48817,plan de jubilación,Activos financieros,161518.46
+2182,52795,plan de jubilación,Activos financieros,54136.10
+2183,54441,plan de jubilación,Activos financieros,135407.57
+2184,50327,inversiones,Activos financieros,36177.60
+2185,43452,ahorro,Activos financieros,27726.87
+2186,46529,inversiones,Activos financieros,168328.10
+2187,47006,ahorro,Activos financieros,54481.61
+2188,44678,plan de jubilación,Activos financieros,71407.76
+2189,51621,plan de jubilación,Activos financieros,145650.32
+2190,53760,ahorro,Activos financieros,31482.07
+2191,49067,inversiones,Activos financieros,133650.64
+2192,45281,ahorro,Activos financieros,47338.19
+2193,46889,ahorro,Activos financieros,11039.73
+2194,53940,ahorro,Activos financieros,42933.34
+2195,53167,inversiones,Activos financieros,179240.29
+2196,49548,inversiones,Activos financieros,251016.15
+2197,43907,plan de jubilación,Activos financieros,155997.26
+2198,45352,plan de jubilación,Activos financieros,205273.28
+2199,53870,inversiones,Activos financieros,242980.65
+2200,43189,plan de jubilación,Activos financieros,144108.38
+2201,43154,inversiones,Activos financieros,141014.50
+2202,44439,plan de jubilación,Activos financieros,172697.10
+2203,45431,plan de jubilación,Activos financieros,120283.74
+2204,51322,ahorro,Activos financieros,86179.08
+2205,44311,plan de jubilación,Activos financieros,228651.09
+2206,53000,ahorro,Activos financieros,70111.65
+2207,54388,plan de jubilación,Activos financieros,198250.78
+2208,43862,plan de jubilación,Activos financieros,124439.15
+2209,43594,plan de jubilación,Activos financieros,32657.33
+2210,51789,plan de jubilación,Activos financieros,212212.73
+2211,49105,plan de jubilación,Activos financieros,153087.86
+2212,49817,inversiones,Activos financieros,31776.73
+2213,44791,ahorro,Activos financieros,32924.04
+2214,51020,ahorro,Activos financieros,79346.88
+2215,49378,plan de jubilación,Activos financieros,103200.04
+2216,43712,ahorro,Activos financieros,62277.05
+2217,49350,ahorro,Activos financieros,97402.23
+2218,50513,ahorro,Activos financieros,34401.06
+2219,44250,inversiones,Activos financieros,129913.40
+2220,43144,inversiones,Activos financieros,236410.70
+2221,43374,inversiones,Activos financieros,71610.14
+2222,54150,inversiones,Activos financieros,24290.43
+2223,51608,inversiones,Activos financieros,251187.71
+2224,47066,inversiones,Activos financieros,179226.57
+2225,46696,inversiones,Activos financieros,30198.52
+2226,51162,ahorro,Activos financieros,31149.55
+2227,50921,ahorro,Activos financieros,60026.79
+2228,47156,inversiones,Activos financieros,231631.67
+2229,44072,plan de jubilación,Activos financieros,126102.31
+2230,50705,ahorro,Activos financieros,9508.03
+2231,54528,inversiones,Activos financieros,271073.55
+2232,44540,ahorro,Activos financieros,75829.23
+2233,44647,ahorro,Activos financieros,45570.95
+2234,53896,plan de jubilación,Activos financieros,155815.18
+2235,45105,ahorro,Activos financieros,20963.34
+2236,53746,plan de jubilación,Activos financieros,144717.72
+2237,42772,plan de jubilación,Activos financieros,230032.90
+2238,47401,inversiones,Activos financieros,294791.51
+2239,53196,ahorro,Activos financieros,58481.33
+2240,46446,inversiones,Activos financieros,121855.03
+2241,52116,plan de jubilación,Activos financieros,20290.59
+2242,52805,ahorro,Activos financieros,583.91
+2243,52157,plan de jubilación,Activos financieros,31876.09
+2244,43777,ahorro,Activos financieros,23906.50
+2245,53374,inversiones,Activos financieros,118886.23
+2246,44823,inversiones,Activos financieros,115454.09
+2247,45724,plan de jubilación,Activos financieros,138554.10
+2248,52765,ahorro,Activos financieros,47749.71
+2249,46876,inversiones,Activos financieros,115993.92
+2250,52774,plan de jubilación,Activos financieros,42795.49
+2251,45973,ahorro,Activos financieros,13860.61
+2252,50687,inversiones,Activos financieros,5696.63
+2253,50313,plan de jubilación,Activos financieros,166192.04
+2254,51489,ahorro,Activos financieros,14153.42
+2255,43024,plan de jubilación,Activos financieros,223927.70
+2256,45895,inversiones,Activos financieros,279162.99
+2257,45703,ahorro,Activos financieros,45712.24
+2258,49027,inversiones,Activos financieros,246201.36
+2259,52714,plan de jubilación,Activos financieros,60306.53
+2260,42674,inversiones,Activos financieros,3221.57
+2261,53438,inversiones,Activos financieros,71788.24
+2262,45565,plan de jubilación,Activos financieros,105655.26
+2263,45826,inversiones,Activos financieros,110724.04
+2264,44219,inversiones,Activos financieros,145497.17
+2265,49502,ahorro,Activos financieros,58236.74
+2266,50976,ahorro,Activos financieros,14637.70
+2267,53648,inversiones,Activos financieros,295090.15
+2268,53088,plan de jubilación,Activos financieros,131652.64
+2269,49660,inversiones,Activos financieros,27445.46
+2270,47611,inversiones,Activos financieros,222764.15
+2271,43550,ahorro,Activos financieros,68565.36
+2272,53993,inversiones,Activos financieros,94437.42
+2273,43446,plan de jubilación,Activos financieros,136083.15
+2274,48145,plan de jubilación,Activos financieros,116238.52
+2275,44224,inversiones,Activos financieros,220410.55
+2276,53449,plan de jubilación,Activos financieros,240342.42
+2277,50847,plan de jubilación,Activos financieros,46039.50
+2278,53481,inversiones,Activos financieros,225078.16
+2279,42985,inversiones,Activos financieros,78872.50
+2280,53524,plan de jubilación,Activos financieros,146644.57
+2281,52391,ahorro,Activos financieros,65803.83
+2282,45689,inversiones,Activos financieros,187670.78
+2283,48095,plan de jubilación,Activos financieros,25214.99
+2284,44200,ahorro,Activos financieros,85218.80
+2285,44625,plan de jubilación,Activos financieros,37472.00
+2286,50459,plan de jubilación,Activos financieros,215175.30
+2287,43461,inversiones,Activos financieros,34353.27
+2288,49513,inversiones,Activos financieros,221951.20
+2289,48089,plan de jubilación,Activos financieros,95592.87
+2290,45602,plan de jubilación,Activos financieros,196719.29
+2291,43781,plan de jubilación,Activos financieros,49298.25
+2292,43138,ahorro,Activos financieros,34613.38
+2293,45775,ahorro,Activos financieros,59756.64
+2294,43094,plan de jubilación,Activos financieros,189426.52
+2295,53398,plan de jubilación,Activos financieros,63297.12
+2296,49715,inversiones,Activos financieros,191634.83
+2297,49782,inversiones,Activos financieros,220573.97
+2298,54589,ahorro,Activos financieros,64404.98
+2299,51673,ahorro,Activos financieros,17176.24
+2300,52820,plan de jubilación,Activos financieros,78834.95
+2301,50614,ahorro,Activos financieros,38290.18
+2302,52758,plan de jubilación,Activos financieros,121274.45
+2303,47090,inversiones,Activos financieros,261213.04
+2304,47207,plan de jubilación,Activos financieros,232169.52
+2305,52506,plan de jubilación,Activos financieros,171230.88
+2306,54533,inversiones,Activos financieros,286805.35
+2307,47539,inversiones,Activos financieros,191589.82
+2308,52741,inversiones,Activos financieros,275494.56
+2309,44720,plan de jubilación,Activos financieros,71229.90
+2310,51897,plan de jubilación,Activos financieros,165314.10
+2311,50916,plan de jubilación,Activos financieros,194422.00
+2312,46037,inversiones,Activos financieros,201895.07
+2313,42662,inversiones,Activos financieros,101884.57
+2314,51087,ahorro,Activos financieros,31670.35
+2315,49774,inversiones,Activos financieros,3534.37
+2316,50843,ahorro,Activos financieros,41419.25
+2317,45791,ahorro,Activos financieros,68707.21
+2318,51478,ahorro,Activos financieros,72662.44
+2319,44789,ahorro,Activos financieros,3887.16
+2320,47689,ahorro,Activos financieros,6159.75
+2321,43420,inversiones,Activos financieros,268296.12
+2322,52445,inversiones,Activos financieros,191786.78
+2323,51735,ahorro,Activos financieros,9095.44
+2324,54085,ahorro,Activos financieros,37907.86
+2325,50423,inversiones,Activos financieros,241156.82
+2326,45010,ahorro,Activos financieros,69717.54
+2327,49426,plan de jubilación,Activos financieros,119404.12
+2328,53377,inversiones,Activos financieros,136579.69
+2329,46488,plan de jubilación,Activos financieros,174594.27
+2330,45034,plan de jubilación,Activos financieros,68047.47
+2331,45745,plan de jubilación,Activos financieros,195390.96
+2332,53518,plan de jubilación,Activos financieros,86500.41
+2333,52235,plan de jubilación,Activos financieros,239123.40
+2334,43539,ahorro,Activos financieros,44337.20
+2335,50270,ahorro,Activos financieros,61225.04
+2336,44213,inversiones,Activos financieros,148125.13
+2337,51747,inversiones,Activos financieros,230843.49
+2338,51922,inversiones,Activos financieros,193358.11
+2339,45677,inversiones,Activos financieros,78439.88
+2340,54570,ahorro,Activos financieros,7506.03
+2341,52763,plan de jubilación,Activos financieros,195423.11
+2342,54137,plan de jubilación,Activos financieros,41469.30
+2343,45550,ahorro,Activos financieros,93322.93
+2344,51990,plan de jubilación,Activos financieros,70276.94
+2345,52715,plan de jubilación,Activos financieros,226631.30
+2346,54226,ahorro,Activos financieros,51780.61
+2347,45011,plan de jubilación,Activos financieros,111834.13
+2348,45687,ahorro,Activos financieros,54242.81
+2349,44287,plan de jubilación,Activos financieros,238768.06
+2350,51942,ahorro,Activos financieros,56940.77
+2351,45762,plan de jubilación,Activos financieros,172049.76
+2352,48593,ahorro,Activos financieros,63411.12
+2353,43928,ahorro,Activos financieros,36852.86
+2354,50901,ahorro,Activos financieros,84197.57
+2355,45849,inversiones,Activos financieros,61733.02
+2356,51236,ahorro,Activos financieros,96767.54
+2357,45956,ahorro,Activos financieros,30237.60
+2358,44899,ahorro,Activos financieros,63246.40
+2359,53641,plan de jubilación,Activos financieros,25791.31
+2360,47222,plan de jubilación,Activos financieros,185154.42
+2361,50515,ahorro,Activos financieros,19712.73
+2362,53783,inversiones,Activos financieros,72307.05
+2363,48940,ahorro,Activos financieros,79377.55
+2364,52836,plan de jubilación,Activos financieros,127422.62
+2365,44138,ahorro,Activos financieros,4185.75
+2366,52622,plan de jubilación,Activos financieros,198005.74
+2367,49816,plan de jubilación,Activos financieros,33955.84
+2368,54311,inversiones,Activos financieros,157412.77
+2369,50480,inversiones,Activos financieros,45537.14
+2370,47432,ahorro,Activos financieros,92519.17
+2371,52829,inversiones,Activos financieros,43335.55
+2372,54311,ahorro,Activos financieros,47386.35
+2373,48764,ahorro,Activos financieros,24646.91
+2374,43152,ahorro,Activos financieros,1929.34
+2375,51292,ahorro,Activos financieros,90513.90
+2376,45883,plan de jubilación,Activos financieros,154750.34
+2377,47914,ahorro,Activos financieros,81871.12
+2378,43224,ahorro,Activos financieros,49965.78
+2379,49651,ahorro,Activos financieros,6779.46
+2380,53610,plan de jubilación,Activos financieros,87649.06
+2381,52932,plan de jubilación,Activos financieros,84437.56
+2382,49312,inversiones,Activos financieros,164219.55
+2383,51202,ahorro,Activos financieros,76540.67
+2384,47355,ahorro,Activos financieros,33882.62
+2385,46409,plan de jubilación,Activos financieros,39603.02
+2386,45416,ahorro,Activos financieros,69781.43
+2387,47269,ahorro,Activos financieros,44146.79
+2388,51432,ahorro,Activos financieros,13770.40
+2389,42850,inversiones,Activos financieros,113463.19
+2390,43477,ahorro,Activos financieros,88022.88
+2391,52220,ahorro,Activos financieros,1218.79
+2392,50973,inversiones,Activos financieros,195874.98
+2393,51754,plan de jubilación,Activos financieros,174908.36
+2394,47700,inversiones,Activos financieros,38940.83
+2395,52653,inversiones,Activos financieros,82013.97
+2396,42745,plan de jubilación,Activos financieros,63617.17
+2397,53511,inversiones,Activos financieros,207810.40
+2398,51997,ahorro,Activos financieros,71861.28
+2399,43799,ahorro,Activos financieros,62905.57
+2400,44004,plan de jubilación,Activos financieros,107602.54
+2401,49126,ahorro,Activos financieros,19594.33
+2402,45292,ahorro,Activos financieros,62082.63
+2403,51037,inversiones,Activos financieros,66563.56
+2404,50575,inversiones,Activos financieros,63224.50
+2405,43241,ahorro,Activos financieros,11711.57
+2406,49999,inversiones,Activos financieros,253290.73
+2407,53916,plan de jubilación,Activos financieros,48199.34
+2408,49763,ahorro,Activos financieros,5875.75
+2409,52865,plan de jubilación,Activos financieros,56349.49
+2410,46377,plan de jubilación,Activos financieros,156120.74
+2411,53015,ahorro,Activos financieros,10889.90
+2412,52828,inversiones,Activos financieros,53590.39
+2413,52569,plan de jubilación,Activos financieros,131151.41
+2414,43588,ahorro,Activos financieros,72279.61
+2415,45113,inversiones,Activos financieros,98465.72
+2416,45816,inversiones,Activos financieros,203378.91
+2417,52029,ahorro,Activos financieros,78008.04
+2418,46282,ahorro,Activos financieros,10257.38
+2419,54207,ahorro,Activos financieros,37865.47
+2420,44653,ahorro,Activos financieros,47363.53
+2421,43399,ahorro,Activos financieros,89103.64
+2422,53158,ahorro,Activos financieros,92824.77
+2423,44282,ahorro,Activos financieros,39039.37
+2424,49392,plan de jubilación,Activos financieros,181356.20
+2425,52222,plan de jubilación,Activos financieros,244011.19
+2426,53265,plan de jubilación,Activos financieros,36166.88
+2427,52785,inversiones,Activos financieros,18835.86
+2428,50554,ahorro,Activos financieros,85239.31
+2429,48685,plan de jubilación,Activos financieros,46944.32
+2430,43358,ahorro,Activos financieros,88697.69
+2431,49187,ahorro,Activos financieros,79059.92
+2432,48076,inversiones,Activos financieros,271767.85
+2433,50579,inversiones,Activos financieros,256646.20
+2434,47665,plan de jubilación,Activos financieros,214958.57
+2435,52370,ahorro,Activos financieros,59362.30
+2436,52265,plan de jubilación,Activos financieros,8553.44
+2437,54051,inversiones,Activos financieros,261906.94
+2438,52093,plan de jubilación,Activos financieros,111390.94
+2439,48574,inversiones,Activos financieros,283929.45
+2440,50585,ahorro,Activos financieros,42068.30
+2441,54600,ahorro,Activos financieros,99131.71
+2442,53645,ahorro,Activos financieros,42856.92
+2443,51121,plan de jubilación,Activos financieros,203380.55
+2444,49419,ahorro,Activos financieros,45517.92
+2445,51256,ahorro,Activos financieros,56069.45
+2446,52503,inversiones,Activos financieros,219804.10
+2447,49621,ahorro,Activos financieros,36161.37
+2448,49024,inversiones,Activos financieros,299686.55
+2449,47582,plan de jubilación,Activos financieros,168913.72
+2450,48323,inversiones,Activos financieros,138325.57
+2451,52683,inversiones,Activos financieros,175514.37
+2452,51033,plan de jubilación,Activos financieros,194099.58
+2453,45742,plan de jubilación,Activos financieros,50311.71
+2454,46560,inversiones,Activos financieros,139824.44
+2455,47737,ahorro,Activos financieros,86108.07
+2456,44336,plan de jubilación,Activos financieros,223891.44
+2457,50249,inversiones,Activos financieros,10781.54
+2458,54203,plan de jubilación,Activos financieros,176023.47
+2459,43321,inversiones,Activos financieros,172993.58
+2460,50088,inversiones,Activos financieros,25206.75
+2461,47167,inversiones,Activos financieros,279740.74
+2462,44145,inversiones,Activos financieros,109833.17
+2463,44146,ahorro,Activos financieros,38604.02
+2464,44894,inversiones,Activos financieros,13221.43
+2465,43947,ahorro,Activos financieros,64993.18
+2466,42904,ahorro,Activos financieros,56295.44
+2467,52122,ahorro,Activos financieros,98134.54
+2468,44658,inversiones,Activos financieros,34953.75
+2469,54406,inversiones,Activos financieros,281805.23
+2470,54105,inversiones,Activos financieros,63728.40
+2471,48064,plan de jubilación,Activos financieros,91414.36
+2472,44306,inversiones,Activos financieros,204387.79
+2473,50416,ahorro,Activos financieros,6805.23
+2474,52918,plan de jubilación,Activos financieros,124125.59
+2475,42833,ahorro,Activos financieros,47281.30
+2476,50465,inversiones,Activos financieros,247788.33
+2477,54449,plan de jubilación,Activos financieros,157133.06
+2478,43493,inversiones,Activos financieros,242829.97
+2479,46162,ahorro,Activos financieros,89244.37
+2480,46970,ahorro,Activos financieros,8476.96
+2481,49301,plan de jubilación,Activos financieros,239772.84
+2482,50417,ahorro,Activos financieros,16894.24
+2483,49691,inversiones,Activos financieros,45238.26
+2484,49751,ahorro,Activos financieros,52308.42
+2485,50219,ahorro,Activos financieros,29670.36
+2486,49453,inversiones,Activos financieros,279584.72
+2487,46779,plan de jubilación,Activos financieros,107931.84
+2488,51354,ahorro,Activos financieros,29505.92
+2489,52268,ahorro,Activos financieros,87243.47
+2490,54136,inversiones,Activos financieros,193756.94
+2491,52957,inversiones,Activos financieros,103494.95
+2492,53865,plan de jubilación,Activos financieros,124106.36
+2493,50209,inversiones,Activos financieros,159519.70
+2494,48450,plan de jubilación,Activos financieros,117211.74
+2495,45097,ahorro,Activos financieros,89879.05
+2496,52239,ahorro,Activos financieros,79032.14
+2497,47534,plan de jubilación,Activos financieros,96116.07
+2498,47386,ahorro,Activos financieros,15259.66
+2499,43252,plan de jubilación,Activos financieros,239272.39
+2500,45157,ahorro,Activos financieros,71325.31
+2501,45241,ahorro,Activos financieros,97334.01
+2502,51735,inversiones,Activos financieros,271508.63
+2503,49279,ahorro,Activos financieros,24171.58
+2504,48707,plan de jubilación,Activos financieros,145758.67
+2505,51551,plan de jubilación,Activos financieros,95569.68
+2506,46485,inversiones,Activos financieros,212433.18
+2507,45804,plan de jubilación,Activos financieros,244615.53
+2508,51964,plan de jubilación,Activos financieros,114865.13
+2509,51562,inversiones,Activos financieros,91166.37
+2510,54446,plan de jubilación,Activos financieros,233111.88
+2511,53893,plan de jubilación,Activos financieros,232313.77
+2512,51467,ahorro,Activos financieros,97029.94
+2513,45826,inversiones,Activos financieros,100052.91
+2514,49357,plan de jubilación,Activos financieros,121108.12
+2515,50521,inversiones,Activos financieros,200399.43
+2516,52089,inversiones,Activos financieros,272157.36
+2517,49068,plan de jubilación,Activos financieros,173841.01
+2518,44317,plan de jubilación,Activos financieros,225542.74
+2519,50651,inversiones,Activos financieros,165737.04
+2520,52212,ahorro,Activos financieros,40462.18
+2521,47267,plan de jubilación,Activos financieros,92561.42
+2522,53714,ahorro,Activos financieros,61011.05
+2523,43218,inversiones,Activos financieros,158403.72
+2524,43771,ahorro,Activos financieros,2743.59
+2525,52671,plan de jubilación,Activos financieros,170880.53
+2526,45764,inversiones,Activos financieros,118932.66
+2527,47327,plan de jubilación,Activos financieros,152777.11
+2528,51861,ahorro,Activos financieros,90890.47
+2529,43755,plan de jubilación,Activos financieros,41246.75
+2530,43531,plan de jubilación,Activos financieros,99597.59
+2531,44254,plan de jubilación,Activos financieros,89505.45
+2532,52212,plan de jubilación,Activos financieros,219203.93
+2533,48010,ahorro,Activos financieros,72921.41
+2534,50142,inversiones,Activos financieros,297786.55
+2535,44393,plan de jubilación,Activos financieros,45128.63
+2536,52023,plan de jubilación,Activos financieros,183508.35
+2537,47959,ahorro,Activos financieros,83633.40
+2538,52893,ahorro,Activos financieros,14792.11
+2539,51805,plan de jubilación,Activos financieros,247153.69
+2540,54450,plan de jubilación,Activos financieros,21198.37
+2541,47130,plan de jubilación,Activos financieros,26669.83
+2542,43939,inversiones,Activos financieros,274408.74
+2543,53095,ahorro,Activos financieros,55803.48
+2544,45431,inversiones,Activos financieros,226817.88
+2545,44565,ahorro,Activos financieros,19007.64
+2546,52524,plan de jubilación,Activos financieros,140697.40
+2547,51415,plan de jubilación,Activos financieros,209473.37
+2548,48166,plan de jubilación,Activos financieros,142023.86
+2549,44958,ahorro,Activos financieros,3170.58
+2550,45239,ahorro,Activos financieros,26636.36
+2551,45469,inversiones,Activos financieros,142289.81
+2552,54311,inversiones,Activos financieros,267913.27
+2553,49412,ahorro,Activos financieros,49442.71
+2554,46183,inversiones,Activos financieros,74180.33
+2555,50538,plan de jubilación,Activos financieros,125797.31
+2556,46317,inversiones,Activos financieros,223924.11
+2557,53058,plan de jubilación,Activos financieros,143565.77
+2558,54576,inversiones,Activos financieros,206087.94
+2559,49635,ahorro,Activos financieros,37633.62
+2560,46607,ahorro,Activos financieros,84605.37
+2561,52929,inversiones,Activos financieros,18494.61
+2562,51585,plan de jubilación,Activos financieros,220187.73
+2563,49160,plan de jubilación,Activos financieros,45010.67
+2564,44687,plan de jubilación,Activos financieros,107780.93
+2565,53961,ahorro,Activos financieros,29340.69
+2566,50592,inversiones,Activos financieros,280958.79
+2567,51998,ahorro,Activos financieros,76761.02
+2568,53887,ahorro,Activos financieros,60076.87
+2569,45528,inversiones,Activos financieros,97459.45
+2570,47437,inversiones,Activos financieros,240163.28
+2571,51865,inversiones,Activos financieros,209692.29
+2572,52048,ahorro,Activos financieros,53674.82
+2573,46285,ahorro,Activos financieros,1783.32
+2574,46514,plan de jubilación,Activos financieros,96388.48
+2575,42807,plan de jubilación,Activos financieros,88376.71
+2576,49589,ahorro,Activos financieros,22178.68
+2577,46662,ahorro,Activos financieros,83241.57
+2578,48723,inversiones,Activos financieros,207206.20
+2579,47179,inversiones,Activos financieros,214051.59
+2580,53374,ahorro,Activos financieros,42025.95
+2581,51536,ahorro,Activos financieros,81975.05
+2582,46677,plan de jubilación,Activos financieros,90311.43
+2583,46995,plan de jubilación,Activos financieros,39058.43
+2584,50580,inversiones,Activos financieros,157413.21
+2585,51365,ahorro,Activos financieros,71134.54
+2586,52302,inversiones,Activos financieros,244557.66
+2587,48574,ahorro,Activos financieros,85753.11
+2588,46068,inversiones,Activos financieros,68745.75
+2589,43807,ahorro,Activos financieros,13456.72
+2590,46036,plan de jubilación,Activos financieros,174250.44
+2591,48519,ahorro,Activos financieros,2371.24
+2592,44632,plan de jubilación,Activos financieros,15416.65
+2593,49326,ahorro,Activos financieros,79408.99
+2594,45399,inversiones,Activos financieros,18720.31
+2595,45388,plan de jubilación,Activos financieros,15603.97
+2596,52119,inversiones,Activos financieros,4071.45
+2597,43599,ahorro,Activos financieros,92049.76
+2598,43871,inversiones,Activos financieros,270451.29
+2599,45010,inversiones,Activos financieros,106108.57
+2600,51974,ahorro,Activos financieros,84663.22
+2601,52933,inversiones,Activos financieros,105003.13
+2602,49760,inversiones,Activos financieros,234459.84
+2603,45859,ahorro,Activos financieros,50738.47
+2604,44657,ahorro,Activos financieros,82048.86
+2605,44860,inversiones,Activos financieros,65882.42
+2606,52465,plan de jubilación,Activos financieros,47084.50
+2607,42999,ahorro,Activos financieros,97371.20
+2608,46796,ahorro,Activos financieros,92087.48
+2609,49384,plan de jubilación,Activos financieros,94783.44
+2610,49062,ahorro,Activos financieros,44246.75
+2611,54587,ahorro,Activos financieros,83556.84
+2612,49620,plan de jubilación,Activos financieros,57497.13
+2613,54599,plan de jubilación,Activos financieros,32647.14
+2614,51490,ahorro,Activos financieros,46857.22
+2615,51101,ahorro,Activos financieros,49833.69
+2616,44397,inversiones,Activos financieros,87193.11
+2617,42725,ahorro,Activos financieros,8683.67
+2618,43779,ahorro,Activos financieros,38785.72
+2619,49682,inversiones,Activos financieros,221116.15
+2620,50678,plan de jubilación,Activos financieros,60338.99
+2621,47413,plan de jubilación,Activos financieros,246315.77
+2622,48182,ahorro,Activos financieros,85748.99
+2623,51349,inversiones,Activos financieros,110864.98
+2624,49214,inversiones,Activos financieros,148002.86
+2625,52294,plan de jubilación,Activos financieros,112324.30
+2626,51672,inversiones,Activos financieros,26416.77
+2627,51336,plan de jubilación,Activos financieros,103152.95
+2628,43217,ahorro,Activos financieros,74272.50
+2629,45073,ahorro,Activos financieros,36689.14
+2630,43274,plan de jubilación,Activos financieros,54064.56
+2631,53497,ahorro,Activos financieros,23670.53
+2632,53951,inversiones,Activos financieros,150233.92
+2633,50672,inversiones,Activos financieros,178501.34
+2634,53600,plan de jubilación,Activos financieros,92243.84
+2635,43607,inversiones,Activos financieros,285091.51
+2636,44938,inversiones,Activos financieros,84388.30
+2637,46046,ahorro,Activos financieros,12657.91
+2638,49136,plan de jubilación,Activos financieros,61551.34
+2639,44681,ahorro,Activos financieros,10410.54
+2640,45527,ahorro,Activos financieros,50064.42
+2641,45842,ahorro,Activos financieros,38571.98
+2642,48878,plan de jubilación,Activos financieros,42420.48
+2643,50834,inversiones,Activos financieros,29803.75
+2644,47357,inversiones,Activos financieros,225731.31
+2645,43756,plan de jubilación,Activos financieros,54473.28
+2646,45446,plan de jubilación,Activos financieros,125111.34
+2647,42694,inversiones,Activos financieros,103741.08
+2648,52964,inversiones,Activos financieros,6283.45
+2649,48952,plan de jubilación,Activos financieros,220630.79
+2650,42731,plan de jubilación,Activos financieros,115278.30
+2651,51709,plan de jubilación,Activos financieros,117615.78
+2652,48421,ahorro,Activos financieros,55888.32
+2653,50800,inversiones,Activos financieros,50079.13
+2654,53868,ahorro,Activos financieros,31589.74
+2655,45858,plan de jubilación,Activos financieros,192182.73
+2656,46605,inversiones,Activos financieros,147675.56
+2657,46315,inversiones,Activos financieros,162278.32
+2658,47205,plan de jubilación,Activos financieros,142752.58
+2659,53758,inversiones,Activos financieros,17665.40
+2660,51466,plan de jubilación,Activos financieros,149806.05
+2661,46542,inversiones,Activos financieros,203269.85
+2662,44045,plan de jubilación,Activos financieros,20048.87
+2663,48813,ahorro,Activos financieros,13255.71
+2664,43947,plan de jubilación,Activos financieros,203340.59
+2665,45017,ahorro,Activos financieros,76636.81
+2666,46148,plan de jubilación,Activos financieros,98240.48
+2667,54051,plan de jubilación,Activos financieros,248026.65
+2668,50762,plan de jubilación,Activos financieros,18830.07
+2669,49524,ahorro,Activos financieros,23844.90
+2670,44778,inversiones,Activos financieros,26397.58
+2671,51566,ahorro,Activos financieros,86959.53
+2672,50223,plan de jubilación,Activos financieros,46595.91
+2673,52671,plan de jubilación,Activos financieros,14157.52
+2674,49572,plan de jubilación,Activos financieros,144172.10
+2675,44379,plan de jubilación,Activos financieros,9998.56
+2676,51429,inversiones,Activos financieros,7648.70
+2677,52318,plan de jubilación,Activos financieros,144736.62
+2678,42854,inversiones,Activos financieros,30219.98
+2679,51674,ahorro,Activos financieros,69240.96
+2680,44579,plan de jubilación,Activos financieros,126699.19
+2681,54259,plan de jubilación,Activos financieros,45823.67
+2682,49501,plan de jubilación,Activos financieros,242509.80
+2683,48580,plan de jubilación,Activos financieros,160683.83
+2684,46775,inversiones,Activos financieros,65009.95
+2685,44313,ahorro,Activos financieros,30083.37
+2686,45582,plan de jubilación,Activos financieros,202127.74
+2687,50122,inversiones,Activos financieros,287424.38
+2688,46165,inversiones,Activos financieros,29325.35
+2689,46600,plan de jubilación,Activos financieros,21481.10
+2690,50108,plan de jubilación,Activos financieros,109640.94
+2691,54287,ahorro,Activos financieros,65327.91
+2692,44890,inversiones,Activos financieros,241433.89
+2693,48259,inversiones,Activos financieros,162444.33
+2694,43157,plan de jubilación,Activos financieros,103563.73
+2695,53947,inversiones,Activos financieros,136515.35
+2696,43580,ahorro,Activos financieros,88149.21
+2697,45056,inversiones,Activos financieros,155351.01
+2698,48527,inversiones,Activos financieros,150261.89
+2699,49197,inversiones,Activos financieros,281492.80
+2700,50719,inversiones,Activos financieros,160283.08
+2701,52560,plan de jubilación,Activos financieros,233985.80
+2702,43085,inversiones,Activos financieros,18904.62
+2703,51778,plan de jubilación,Activos financieros,118309.24
+2704,50617,ahorro,Activos financieros,74770.13
+2705,46510,plan de jubilación,Activos financieros,105513.76
+2706,47774,inversiones,Activos financieros,61863.85
+2707,51332,plan de jubilación,Activos financieros,206809.12
+2708,53865,ahorro,Activos financieros,26016.44
+2709,48516,ahorro,Activos financieros,40883.66
+2710,53198,ahorro,Activos financieros,19595.64
+2711,50027,plan de jubilación,Activos financieros,118719.13
+2712,44765,plan de jubilación,Activos financieros,108394.69
+2713,45360,ahorro,Activos financieros,16356.17
+2714,52260,ahorro,Activos financieros,26210.49
+2715,47863,inversiones,Activos financieros,165661.13
+2716,50240,ahorro,Activos financieros,96396.80
+2717,54569,ahorro,Activos financieros,6005.06
+2718,51966,plan de jubilación,Activos financieros,152391.94
+2719,49941,plan de jubilación,Activos financieros,224709.44
+2720,54542,inversiones,Activos financieros,265830.09
+2721,52073,inversiones,Activos financieros,252982.33
+2722,43239,ahorro,Activos financieros,57311.85
+2723,43817,ahorro,Activos financieros,52434.78
+2724,50199,inversiones,Activos financieros,76290.61
+2725,51097,ahorro,Activos financieros,60182.22
+2726,44346,plan de jubilación,Activos financieros,208921.87
+2727,50236,inversiones,Activos financieros,223443.73
+2728,45057,ahorro,Activos financieros,14855.65
+2729,49309,ahorro,Activos financieros,97007.39
+2730,52133,plan de jubilación,Activos financieros,67304.95
+2731,52920,ahorro,Activos financieros,49290.68
+2732,44446,inversiones,Activos financieros,284664.56
+2733,52318,inversiones,Activos financieros,127710.61
+2734,45601,ahorro,Activos financieros,96349.88
+2735,53158,plan de jubilación,Activos financieros,121429.34
+2736,44976,plan de jubilación,Activos financieros,10163.18
+2737,44613,ahorro,Activos financieros,84226.56
+2738,44178,ahorro,Activos financieros,69222.90
+2739,51042,ahorro,Activos financieros,25671.80
+2740,50420,plan de jubilación,Activos financieros,161542.52
+2741,48389,plan de jubilación,Activos financieros,226273.49
+2742,50882,ahorro,Activos financieros,53723.61
+2743,51576,plan de jubilación,Activos financieros,100175.40
+2744,47892,plan de jubilación,Activos financieros,78717.60
+2745,53861,plan de jubilación,Activos financieros,56544.69
+2746,53054,plan de jubilación,Activos financieros,159681.41
+2747,45490,plan de jubilación,Activos financieros,198382.76
+2748,46402,ahorro,Activos financieros,82408.18
+2749,50702,plan de jubilación,Activos financieros,185550.78
+2750,50431,inversiones,Activos financieros,127287.43
+2751,52379,ahorro,Activos financieros,69998.98
+2752,44070,ahorro,Activos financieros,35509.71
+2753,46665,inversiones,Activos financieros,244214.99
+2754,43071,plan de jubilación,Activos financieros,175326.47
+2755,47735,inversiones,Activos financieros,192836.16
+2756,47929,plan de jubilación,Activos financieros,198799.73
+2757,42950,ahorro,Activos financieros,40365.85
+2758,52924,plan de jubilación,Activos financieros,81861.84
+2759,54124,ahorro,Activos financieros,16203.33
+2760,50898,inversiones,Activos financieros,290929.71
+2761,43055,ahorro,Activos financieros,84772.56
+2762,50666,plan de jubilación,Activos financieros,199197.36
+2763,49394,plan de jubilación,Activos financieros,122199.54
+2764,42737,plan de jubilación,Activos financieros,47502.36
+2765,52867,plan de jubilación,Activos financieros,200884.52
+2766,50776,ahorro,Activos financieros,41742.39
+2767,46924,plan de jubilación,Activos financieros,219715.55
+2768,52683,ahorro,Activos financieros,2563.10
+2769,48436,inversiones,Activos financieros,194484.90
+2770,53305,ahorro,Activos financieros,90731.06
+2771,50077,ahorro,Activos financieros,26547.42
+2772,45073,ahorro,Activos financieros,40402.97
+2773,54178,inversiones,Activos financieros,78787.18
+2774,43800,plan de jubilación,Activos financieros,46680.11
+2775,45097,ahorro,Activos financieros,1904.43
+2776,53389,plan de jubilación,Activos financieros,194473.03
+2777,52608,inversiones,Activos financieros,148750.56
+2778,48913,inversiones,Activos financieros,61740.46
+2779,51810,plan de jubilación,Activos financieros,187878.54
+2780,49066,ahorro,Activos financieros,43415.20
+2781,47648,inversiones,Activos financieros,65454.41
+2782,52517,inversiones,Activos financieros,203479.41
+2783,46521,ahorro,Activos financieros,41148.15
+2784,54402,ahorro,Activos financieros,29374.20
+2785,48972,ahorro,Activos financieros,61959.18
+2786,42878,plan de jubilación,Activos financieros,147811.25
+2787,51915,plan de jubilación,Activos financieros,26005.98
+2788,44039,ahorro,Activos financieros,87208.63
+2789,48148,plan de jubilación,Activos financieros,173278.85
+2790,47845,plan de jubilación,Activos financieros,178571.03
+2791,42830,plan de jubilación,Activos financieros,22898.63
+2792,49599,ahorro,Activos financieros,5685.20
+2793,47939,plan de jubilación,Activos financieros,227515.50
+2794,54299,inversiones,Activos financieros,290195.74
+2795,54158,inversiones,Activos financieros,224724.31
+2796,42791,ahorro,Activos financieros,25738.86
+2797,51316,plan de jubilación,Activos financieros,79114.30
+2798,43775,inversiones,Activos financieros,111899.46
+2799,42926,ahorro,Activos financieros,58258.45
+2800,44988,ahorro,Activos financieros,50622.80
+2801,52085,plan de jubilación,Activos financieros,37320.29
+2802,45508,inversiones,Activos financieros,159596.72
+2803,51324,plan de jubilación,Activos financieros,33626.30
+2804,50639,ahorro,Activos financieros,50171.46
+2805,50459,inversiones,Activos financieros,108817.07
+2806,52590,plan de jubilación,Activos financieros,226184.21
+2807,51741,inversiones,Activos financieros,249047.16
+2808,53618,inversiones,Activos financieros,94590.08
+2809,44882,plan de jubilación,Activos financieros,185532.96
+2810,52544,ahorro,Activos financieros,55789.63
+2811,50994,inversiones,Activos financieros,239667.83
+2812,44972,ahorro,Activos financieros,15287.77
+2813,54103,ahorro,Activos financieros,4068.29
+2814,45159,ahorro,Activos financieros,70743.30
+2815,46269,ahorro,Activos financieros,99522.57
+2816,52289,ahorro,Activos financieros,44431.21
+2817,50370,inversiones,Activos financieros,146074.65
+2818,44727,ahorro,Activos financieros,84660.92
+2819,44563,ahorro,Activos financieros,35285.63
+2820,52065,plan de jubilación,Activos financieros,49260.47
+2821,45885,inversiones,Activos financieros,153112.59
+2822,52908,inversiones,Activos financieros,267377.46
+2823,45491,ahorro,Activos financieros,58562.97
+2824,47603,inversiones,Activos financieros,230287.44
+2825,46024,plan de jubilación,Activos financieros,230501.23
+2826,46674,plan de jubilación,Activos financieros,170842.59
+2827,49508,ahorro,Activos financieros,28785.98
+2828,53922,ahorro,Activos financieros,39719.90
+2829,45359,ahorro,Activos financieros,83779.23
+2830,45206,ahorro,Activos financieros,8565.79
+2831,49384,inversiones,Activos financieros,144476.67
+2832,52924,plan de jubilación,Activos financieros,150580.04
+2833,53267,plan de jubilación,Activos financieros,242593.78
+2834,47917,inversiones,Activos financieros,285317.89
+2835,52395,inversiones,Activos financieros,299946.51
+2836,46033,ahorro,Activos financieros,21531.00
+2837,53130,inversiones,Activos financieros,85603.25
+2838,51900,inversiones,Activos financieros,22146.50
+2839,53595,plan de jubilación,Activos financieros,27675.00
+2840,44089,ahorro,Activos financieros,24387.97
+2841,49449,ahorro,Activos financieros,2540.95
+2842,49800,ahorro,Activos financieros,39156.04
+2843,48688,plan de jubilación,Activos financieros,163556.16
+2844,49656,ahorro,Activos financieros,12499.90
+2845,47321,plan de jubilación,Activos financieros,185292.87
+2846,51873,inversiones,Activos financieros,181450.57
+2847,49075,inversiones,Activos financieros,29737.34
+2848,53290,inversiones,Activos financieros,60761.51
+2849,50737,plan de jubilación,Activos financieros,121727.72
+2850,52342,inversiones,Activos financieros,127498.10
+2851,46328,plan de jubilación,Activos financieros,155397.61
+2852,54008,inversiones,Activos financieros,128379.11
+2853,51278,inversiones,Activos financieros,103181.71
+2854,48168,inversiones,Activos financieros,68044.83
+2855,49896,inversiones,Activos financieros,47365.84
+2856,52842,inversiones,Activos financieros,189238.31
+2857,45169,ahorro,Activos financieros,29424.95
+2858,51356,ahorro,Activos financieros,90767.17
+2859,44499,plan de jubilación,Activos financieros,41408.60
+2860,45946,inversiones,Activos financieros,270968.18
+2861,47573,inversiones,Activos financieros,128891.81
+2862,47949,ahorro,Activos financieros,55323.94
+2863,43918,inversiones,Activos financieros,33182.02
+2864,49993,plan de jubilación,Activos financieros,28148.67
+2865,44647,inversiones,Activos financieros,170974.98
+2866,48511,plan de jubilación,Activos financieros,67440.75
+2867,43590,inversiones,Activos financieros,5864.34
+2868,52713,plan de jubilación,Activos financieros,48990.29
+2869,50385,plan de jubilación,Activos financieros,16088.39
+2870,45936,inversiones,Activos financieros,89996.61
+2871,47149,inversiones,Activos financieros,137044.45
+2872,50232,plan de jubilación,Activos financieros,157833.55
+2873,44188,plan de jubilación,Activos financieros,241846.31
+2874,45558,ahorro,Activos financieros,18916.20
+2875,51595,plan de jubilación,Activos financieros,218545.87
+2876,43224,plan de jubilación,Activos financieros,135922.12
+2877,53267,plan de jubilación,Activos financieros,33586.17
+2878,43792,inversiones,Activos financieros,143658.84
+2879,46243,plan de jubilación,Activos financieros,217851.23
+2880,47302,inversiones,Activos financieros,146530.03
+2881,53829,inversiones,Activos financieros,108857.91
+2882,45516,inversiones,Activos financieros,202855.58
+2883,51588,ahorro,Activos financieros,12946.40
+2884,46992,ahorro,Activos financieros,11635.29
+2885,47582,inversiones,Activos financieros,291185.59
+2886,52236,ahorro,Activos financieros,48371.16
+2887,47090,inversiones,Activos financieros,73292.28
+2888,43383,inversiones,Activos financieros,58083.42
+2889,49529,plan de jubilación,Activos financieros,41300.58
+2890,49719,ahorro,Activos financieros,12087.65
+2891,45185,inversiones,Activos financieros,211076.83
+2892,53926,plan de jubilación,Activos financieros,9808.81
+2893,48326,inversiones,Activos financieros,73546.26
+2894,47112,inversiones,Activos financieros,249005.78
+2895,45753,ahorro,Activos financieros,33718.08
+2896,49240,inversiones,Activos financieros,254441.23
+2897,52741,plan de jubilación,Activos financieros,212910.98
+2898,51599,inversiones,Activos financieros,219592.49
+2899,53792,ahorro,Activos financieros,49005.90
+2900,48609,inversiones,Activos financieros,177720.74
+2901,46446,inversiones,Activos financieros,271616.87
+2902,45884,ahorro,Activos financieros,71571.89
+2903,50267,ahorro,Activos financieros,42489.45
+2904,49433,inversiones,Activos financieros,19989.66
+2905,50852,plan de jubilación,Activos financieros,222839.45
+2906,43470,plan de jubilación,Activos financieros,157560.69
+2907,45545,plan de jubilación,Activos financieros,114839.72
+2908,47464,ahorro,Activos financieros,16552.68
+2909,46597,ahorro,Activos financieros,47189.42
+2910,45475,ahorro,Activos financieros,51009.78
+2911,49784,inversiones,Activos financieros,102406.75
+2912,53040,inversiones,Activos financieros,197430.48
+2913,53775,plan de jubilación,Activos financieros,182133.78
+2914,52793,plan de jubilación,Activos financieros,209104.78
+2915,51559,inversiones,Activos financieros,220640.81
+2916,52527,ahorro,Activos financieros,62373.32
+2917,50782,inversiones,Activos financieros,225027.04
+2918,44690,plan de jubilación,Activos financieros,36628.66
+2919,43720,ahorro,Activos financieros,60772.03
+2920,43177,plan de jubilación,Activos financieros,236048.40
+2921,45302,plan de jubilación,Activos financieros,62506.13
+2922,45714,ahorro,Activos financieros,99926.49
+2923,47414,plan de jubilación,Activos financieros,92475.75
+2924,52616,ahorro,Activos financieros,82880.89
+2925,49745,ahorro,Activos financieros,80778.15
+2926,45679,plan de jubilación,Activos financieros,32922.48
+2927,47860,ahorro,Activos financieros,56417.15
+2928,52640,plan de jubilación,Activos financieros,248447.39
+2929,52587,ahorro,Activos financieros,77124.44
+2930,49292,plan de jubilación,Activos financieros,224597.84
+2931,49211,inversiones,Activos financieros,181682.56
+2932,44826,inversiones,Activos financieros,16076.19
+2933,51667,plan de jubilación,Activos financieros,240848.54
+2934,43998,ahorro,Activos financieros,78274.41
+2935,49981,ahorro,Activos financieros,82449.22
+2936,54322,inversiones,Activos financieros,32517.91
+2937,52963,ahorro,Activos financieros,87151.51
+2938,51003,ahorro,Activos financieros,72970.75
+2939,47189,plan de jubilación,Activos financieros,191681.35
+2940,48848,inversiones,Activos financieros,261277.32
+2941,47488,inversiones,Activos financieros,109757.34
+2942,47758,ahorro,Activos financieros,84935.21
+2943,45047,plan de jubilación,Activos financieros,193458.73
+2944,47841,ahorro,Activos financieros,83563.93
+2945,47442,plan de jubilación,Activos financieros,75255.78
+2946,45814,ahorro,Activos financieros,26968.56
+2947,43146,plan de jubilación,Activos financieros,93357.63
+2948,54629,ahorro,Activos financieros,15585.32
+2949,50592,plan de jubilación,Activos financieros,197867.86
+2950,52669,plan de jubilación,Activos financieros,106285.31
+2951,48946,plan de jubilación,Activos financieros,238200.93
+2952,51442,inversiones,Activos financieros,109170.54
+2953,48933,plan de jubilación,Activos financieros,40668.15
+2954,51327,inversiones,Activos financieros,242067.81
+2955,42669,ahorro,Activos financieros,34161.21
+2956,54325,ahorro,Activos financieros,43690.19
+2957,43469,ahorro,Activos financieros,66187.53
+2958,51174,ahorro,Activos financieros,90299.86
+2959,46429,inversiones,Activos financieros,294034.08
+2960,43339,inversiones,Activos financieros,291825.68
+2961,43693,plan de jubilación,Activos financieros,222016.80
+2962,45543,inversiones,Activos financieros,262190.36
+2963,53769,inversiones,Activos financieros,94794.88
+2964,49755,ahorro,Activos financieros,82786.85
+2965,48950,inversiones,Activos financieros,276214.73
+2966,44204,plan de jubilación,Activos financieros,114316.32
+2967,44001,inversiones,Activos financieros,187683.54
+2968,47578,inversiones,Activos financieros,133201.00
+2969,52918,inversiones,Activos financieros,121947.21
+2970,54264,plan de jubilación,Activos financieros,25648.83
+2971,42712,plan de jubilación,Activos financieros,100548.42
+2972,43503,inversiones,Activos financieros,264082.81
+2973,50133,inversiones,Activos financieros,85894.43
+2974,50900,inversiones,Activos financieros,165983.97
+2975,44230,plan de jubilación,Activos financieros,190476.35
+2976,51788,ahorro,Activos financieros,3275.18
+2977,47870,inversiones,Activos financieros,78348.36
+2978,48166,inversiones,Activos financieros,127401.02
+2979,49761,ahorro,Activos financieros,73332.62
+2980,43484,plan de jubilación,Activos financieros,158612.44
+2981,48196,ahorro,Activos financieros,5249.42
+2982,45288,ahorro,Activos financieros,45149.32
+2983,50107,inversiones,Activos financieros,2558.81
+2984,42656,ahorro,Activos financieros,80636.06
+2985,48067,inversiones,Activos financieros,214679.49
+2986,50404,inversiones,Activos financieros,160453.31
+2987,51846,ahorro,Activos financieros,35358.54
+2988,53973,inversiones,Activos financieros,235651.99
+2989,44114,inversiones,Activos financieros,202057.71
+2990,48642,plan de jubilación,Activos financieros,132318.33
+2991,44049,ahorro,Activos financieros,33120.77
+2992,44924,ahorro,Activos financieros,82372.85
+2993,53687,plan de jubilación,Activos financieros,29007.02
+2994,46757,plan de jubilación,Activos financieros,207967.22
+2995,48141,ahorro,Activos financieros,6688.27
+2996,44300,plan de jubilación,Activos financieros,57622.18
+2997,45862,plan de jubilación,Activos financieros,170821.50
+2998,48948,inversiones,Activos financieros,168131.57
+2999,49505,plan de jubilación,Activos financieros,148154.43
+3000,52499,plan de jubilación,Activos financieros,249145.39
+3001,42685,plan de jubilación,Activos financieros,184270.66
