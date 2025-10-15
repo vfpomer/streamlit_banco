@@ -18,7 +18,6 @@ import shutil
 import tempfile
 from sklearn.preprocessing import StandardScaler
 
-
 st.set_page_config(
     page_title="Panel Banco: Morosidad y Predicción",
     page_icon="🏦",
